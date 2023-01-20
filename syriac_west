@@ -1,697 +1,698 @@
-;Ramšå für den Sonntag der Auferstehung:
-1;Einführungsgebete und Rezitationen;3
-2;Psalm 51.;6
-3;Enjånå: Das verfluchte und grausame Volk                ;5
-4;Psalm 140/141 ;6
-5;Psalm 119, 105-112 ;3
-6;Psalm 117 ;2
-7;Enjånå: Die heiligen Frauen ;5
-8;Proemion des Abends, Lasst uns alle beten ;4
-9;Weihrauchshymnus: „Al Etrå d-besmē ;8
-10;Sedrå: In der Erneuerung des Heiligen Geistes ;14
-11;Qålå: Gehe hinauf zu den Bergen ;7
-12;Etrå: Du Herr ;3
-13;Qålå: Erwache, erwache ;6
-14;Hulålå und Petgåmå: Halleluja ;2
-15;Evangelium des Tages:  ;6
-16;Quqlion für die Verstorbenen ;2
-17;Baʿūṯå von Mår Jacob: Sohn, der Du bei Deiner Auferstehung ;6
+number;title;                                                                                                                             recording
+;     Ramšå für den Sonntag der Auferstehung:
+1;    Einführungsgebete und Rezitationen;                                                                                                3
+2;    Psalm 51.;                                                                                                                         6
+3;    Enjånå: Das verfluchte und grausame Volk;                                                                                          5
+4;    Psalm 140/141;                                                                                                                     6
+5;    Psalm 119, 105-112;                                                                                                                3
+6;    Psalm 117;                                                                                                                         2
+7;    Enjånå: Die heiligen Frauen;                                                                                                       5
+8;    Proemion des Abends, Lasst uns alle beten;                                                                                         4
+9;    Weihrauchshymnus: „Al Etrå d-besmē;                                                                                                8
+10;   Sedrå: In der Erneuerung des Heiligen Geistes;                                                                                     14
+11;   Qålå: Gehe hinauf zu den Bergen;                                                                                                   7
+12;   Etrå: Du Herr;                                                                                                                     3
+13;   Qålå: Erwache, erwache;                                                                                                            6
+14;   Hulålå und Petgåmå: Halleluja;                                                                                                     2
+15;   Evangelium des Tages:;                                                                                                             6
+16;   Quqlion für die Verstorbenen;                                                                                                      2
+17;   Baʿūṯå von Mår Jacob: Sohn, der Du bei Deiner Auferstehung;                                                                        6
 18
-19;Sūtårå am Sonntag
-20;Qålå: Ich habe Angst, angesichts meiner Sünden ;5
-21;Baʿūṯå von Mår Balai: Du, der Du hast Mitleid ;6
-22;Psalm 90 (91) &120 (121) ;20
-23;Ḥutåmå: Ehre sei Dir ;4
+19;   Sūtårå am Sonntag
+20;   Qålå: Ich habe Angst, angesichts meiner Sünden;                                                                                    5
+21;   Baʿūṯå von Mår Balai: Du, der Du hast Mitleid;                                                                                     6
+22;   Psalm 90 (91) &120 (121);                                                                                                          20
+23;   Ḥutåmå: Ehre sei Dir;                                                                                                              4
 24
-25;Leljå (Virgil der Nacht)
-26;Psalm 134 ;3
-27;Psalm 119, 169-176 ;4
-28;Psalm 117 ;3
+25;   Leljå (Virgil der Nacht)
+26;   Psalm 134;                                                                                                                         3
+27;   Psalm 119, 169-176;                                                                                                                4
+28;   Psalm 117;                                                                                                                         3
 29
 30
 31
-32;Qålå: Mit den Cherubim ;6
-33;Proemion: Lasst uns beten
-34;Sedrå: Denn Du, Messias ;10
-35;Qålå: Siehe, Sion ;4
-36;Qålå d-quqåjå: Die Wächter sprachen ;4
-37;Madråšå: Für Deine Kirche und ihre Kinder ;5
-38;Qålå: Die Engel steigen herab ;6
-39;Baʿūṯå von Mår jacob: Sohn, der Du bei Deiner Auferstehung ;7
-40;2. Qaumå, Proemion: Lob sei Dir Herr ;3
-41;Sedrå: Gott und Schöpfer von allen ;12
-42;Qålå: Groß ist der Tag ;6
-43;Qålå: Gesegnet seien die Verborgenen ;8
-44;Madråšå: Gepriesen sei der Messias ;6
-45;Madråšå: Der Herr des Paradieses ;15
-46;Baʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns ;6
-47;3. Qaumå, Eqbå: Gib Ruhr, Herr ;3
-48;Qålå: Mit den Schafen, Herr ;5
-49;Baʿūṯå von Mår Balai: Erneuere ;10
-50;Magnificat: Meine Seele preise den Herrn ;5
-51;Enjånå: Lass uns gedenken ;10
-52;Enjånå: Zu allen Zeiten ;8
-53;Psalm 148 ;8
-54;Psalm 149 ;6
-55;Psalm 150;5
-56; Psalm 116 (117) ;8
-57;Lobpreis für Maria ;4
-58;Eqbå: Wir bringen unsere Gebete dar ;3
-59;Qålå: Möge der Rauch des Weihrauchs ;3
-60;Lobpreis für die Heiligen ;3
-61;Totengedenken ;3
-62;Qålå: Zu dieser Zeit ;4
-63;Baʿūṯå von Mår Jacob: Gewähre uns eine Teilnahme ;10
-64;Hymnus der Engel: Wie die Engel und Erzengel ;12
+32;   Qålå: Mit den Cherubim;                                                                                                            6
+33;   Proemion: Lasst uns beten
+34;   Sedrå: Denn Du, Messias;                                                                                                           10
+35;   Qålå: Siehe, Sion;                                                                                                                 4
+36;   Qålå d-quqåjå: Die Wächter sprachen;                                                                                               4
+37;   Madråšå: Für Deine Kirche und ihre Kinder;                                                                                         5
+38;   Qålå: Die Engel steigen herab;                                                                                                     6
+39;   Baʿūṯå von Mår jacob: Sohn, der Du bei Deiner Auferstehung;                                                                        7
+40;   2. Qaumå, Proemion: Lob sei Dir Herr;                                                                                              3
+41;   Sedrå: Gott und Schöpfer von allen;                                                                                                12
+42;   Qålå: Groß ist der Tag;                                                                                                            6
+43;   Qålå: Gesegnet seien die Verborgenen;                                                                                              8
+44;   Madråšå: Gepriesen sei der Messias;                                                                                                6
+45;   Madråšå: Der Herr des Paradieses;                                                                                                  15
+46;   Baʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns;                                                                                   6
+47;   3. Qaumå, Eqbå: Gib Ruhr, Herr;                                                                                                    3
+48;   Qålå: Mit den Schafen, Herr;                                                                                                       5
+49;   Baʿūṯå von Mår Balai: Erneuere;                                                                                                    10
+50;   Magnificat: Meine Seele preise den Herrn;                                                                                          5
+51;   Enjånå: Lass uns gedenken;                                                                                                         10
+52;   Enjånå: Zu allen Zeiten;                                                                                                           8
+53;   Psalm 148;                                                                                                                         8
+54;   Psalm 149;                                                                                                                         6
+55;   Psalm 150;                                                                                                                         5
+56;   Psalm 116 (117);                                                                                                                   8
+57;   Lobpreis für Maria;                                                                                                                4
+58;   Eqbå: Wir bringen unsere Gebete dar;                                                                                               3
+59;   Qålå: Möge der Rauch des Weihrauchs;                                                                                               3
+60;   Lobpreis für die Heiligen;                                                                                                         3
+61;   Totengedenken;                                                                                                                     3
+62;   Qålå: Zu dieser Zeit;                                                                                                              4
+63;   Baʿūṯå von Mår Jacob: Gewähre uns eine Teilnahme;                                                                                  10
+64;   Hymnus der Engel: Wie die Engel und Erzengel;                                                                                      12
 65
 66
-67;Saprå:
-68;Psalm 51, wie in Leljå
-69;Enjånå: Ein Engel des Lichtes ;5
-70;Qånōnå des Tages: Preiset den glorreichen Herrn ;16
-71;Magnificat, wie in Leljå
-72;Psalm 113: Ehre dem Schöpfer des Lichtes ;5
-73;Psalm 148: Lob dem Herrn von den Himmeln ;6
-74;Enjånå: Mit den Himmlischen ;7
-75;Qålå: Am Sonntag, dem großen Tag ;4
-76;Enjånå: Wir frohlocken ;6
-77;Proemion von Saprå ;4
-78;Etrå d-besmē: Weihrauchhymnus wie in Ramšå,
-79;Sedrå: Messias, Gott, wahres Licht ;12
-80;Qålå: Am Sonntag, da er hinabstieg ;7
-81;Etrå: Opfer der Gnade ;3
-82;Qålå: Wie ein Gärtner ;8
-83;Hulålå und Petgåmå ;2
-84;Evangelium des Tage
-85;Eqbå: Gott sei Preis
-86;Qålå: Jungfrau, die du auserwählt wurdest ;5
-87;Båʿūṯå von Mår Jacob: ,Sohn, bei deiner Auferstehung,
-88;Proemion für die dritte Stunde am Sonntag ;4
-89;Sedrå: Gott, das Wort ;12
-90;Qålå: Herr, unser Herr ;6
-91;Båʿūṯå von Mår Ephrem: Herr, hab´ Gnade mit uns ;4
-92;Qålå: Der Berg Zion ;5
-93;Båʿūṯå von Mår Balai: Durch das Gebet deiner Mutter ;4
+67;   Saprå:
+68;   Psalm 51, wie in Leljå
+69;   Enjånå: Ein Engel des Lichtes;                                                                                                     5
+70;   Qånōnå des Tages: Preiset den glorreichen Herrn;                                                                                   16
+71;   Magnificat, wie in Leljå
+72;   Psalm 113: Ehre dem Schöpfer des Lichtes;                                                                                          5
+73;   Psalm 148: Lob dem Herrn von den Himmeln;                                                                                          6
+74;   Enjånå: Mit den Himmlischen;                                                                                                       7
+75;   Qålå: Am Sonntag, dem großen Tag;                                                                                                  4
+76;   Enjånå: Wir frohlocken;                                                                                                            6
+77;   Proemion von Saprå;                                                                                                                4
+78;   Etrå d-besmē: Weihrauchhymnus wie in Ramšå,
+79;   Sedrå: Messias, Gott, wahres Licht;                                                                                                12
+80;   Qålå: Am Sonntag, da er hinabstieg;                                                                                                7
+81;   Etrå: Opfer der Gnade;                                                                                                             3
+82;   Qålå: Wie ein Gärtner;                                                                                                             8
+83;   Hulålå und Petgåmå;                                                                                                                2
+84;   Evangelium des Tage
+85;   Eqbå: Gott sei Preis
+86;   Qålå: Jungfrau, die du auserwählt wurdest;                                                                                         5
+87;   Båʿūṯå von Mår Jacob: ,Sohn, bei deiner Auferstehung,
+88;   Proemion für die dritte Stunde am Sonntag;                                                                                         4
+89;   Sedrå: Gott, das Wort;                                                                                                             12
+90;   Qålå: Herr, unser Herr;                                                                                                            6
+91;   Båʿūṯå von Mår Ephrem: Herr, hab´ Gnade mit uns;                                                                                   4
+92;   Qålå: Der Berg Zion;                                                                                                               5
+93;   Båʿūṯå von Mår Balai: Durch das Gebet deiner Mutter;                                                                               4
 94
 95
-96;9. Stunde am Sonntag für die Verstorbenen
-97; Proemion: Preis, dem Starken ;5
-98;Sedrå: Gott, Schöpfer des Universums ;12
-99;Qålå: Mit den gesegneten Märtyrern ;9
-100;Baʿūṯå von Mår Balai:  Erneuere, der Du voller Gnaden bist ;5
+96;   9. Stunde am Sonntag für die Verstorbenen
+97;   Proemion: Preis, dem Starken;                                                                                                      5
+98;   Sedrå: Gott, Schöpfer des Universums;                                                                                              12
+99;   Qålå: Mit den gesegneten Märtyrern;                                                                                                9
+100;  Baʿūṯå von Mår Balai:  Erneuere, der Du voller Gnaden bist;                                                                        5
 101
 102
-103;Ramšå für Montag
-104;Initial Gebete/Einführungsgebete (Rezitation): Ehre dem Vater, Gewähre uns ;5
-105;Psalm 141:   ;6
-106;Eqbå: Ich habe gesündigt ;12
-107;Qålå ḏ-pirmå: In Liebe und Vertrauen ;14
-108;Qålå der Gottesmutter: Die Erzengel brachten einen Gruß ;15
-109;Qålå der Buße: Gott ist wahrhaftig, ;6
-110;Qålå für die Verstorbenen: In Jerusalem ;4
-111;Etrå: Nimm an, Gott ;4
-112;Qålå btar Weihrauch: Unser Herr, Jesus Christus ;8
-113;Qålå der Gottesmutter: Die Jungfrau, die fähig war, zu hören ;7
-114;Qålå der Heiligen: Unser Herr, er rief seine Jünger ;6
-115;Qålå für den jeweiligen Heiligen: Schöner und lieblicher als die Sonne ;5
-116;Qålå der des Sonntags: Groß ist der Tag ;4
-117;Qålå der Buße: David, König und Prophet ;7
-118;Qålå der Verstorbenen: Mit den gesegnetes Märtyrern ;16
-119;Eqbå: Ich bekenne meine Vergehen ;4
-120;Proemion und Sedrå der Buße: Preis, dem Mächtigen ;18
-121;Qålå: Am Abend rief Abraham ;10
-122;Båʿūṯå von Mår Jacob: Wir rufen zu Dir ;10
-123;Petgåmå: Herr, Jesus Christus ;4
+103;  Ramšå für Montag
+104;  Initial Gebete/Einführungsgebete (Rezitation): Ehre dem Vater, Gewähre uns;                                                        5
+105;  Psalm 141:;                                                                                                                        6
+106;  Eqbå: Ich habe gesündigt;                                                                                                          12
+107;  Qålå ḏ-pirmå: In Liebe und Vertrauen;                                                                                              14
+108;  Qålå der Gottesmutter: Die Erzengel brachten einen Gruß;                                                                           15
+109;  Qålå der Buße: Gott ist wahrhaftig,;                                                                                               6
+110;  Qålå für die Verstorbenen: In Jerusalem;                                                                                           4
+111;  Etrå: Nimm an, Gott;                                                                                                               4
+112;  Qålå btar Weihrauch: Unser Herr, Jesus Christus;                                                                                   8
+113;  Qålå der Gottesmutter: Die Jungfrau, die fähig war, zu hören;                                                                      7
+114;  Qålå der Heiligen: Unser Herr, er rief seine Jünger;                                                                               6
+115;  Qålå für den jeweiligen Heiligen: Schöner und lieblicher als die Sonne;                                                            5
+116;  Qålå der des Sonntags: Groß ist der Tag;                                                                                           4
+117;  Qålå der Buße: David, König und Prophet;                                                                                           7
+118;  Qålå der Verstorbenen: Mit den gesegnetes Märtyrern;                                                                               16
+119;  Eqbå: Ich bekenne meine Vergehen;                                                                                                  4
+120;  Proemion und Sedrå der Buße: Preis, dem Mächtigen;                                                                                 18
+121;  Qålå: Am Abend rief Abraham;                                                                                                       10
+122;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            10
+123;  Petgåmå: Herr, Jesus Christus;                                                                                                     4
 124
-125;Sutårå am Montag
-126;Proemion: Preis dem gütigen Herrn ;5
-127;Sedrå: Gott, Du bist die Quelle der Güte ;4
-128;(5)………………………………
-129;Qålå: Am See Deiner Gnade ;20
-130;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns ;7
-131;Bittgesang im 6. Modus: Mein Herr, ziehe mich aus dem Strudel der Schuld ;12
+125;  Sutårå am Montag
+126;  Proemion: Preis dem gütigen Herrn;                                                                                                 5
+127;  Sedrå: Gott, Du bist die Quelle der Güte;                                                                                          4
+128;  (5)………………………………
+129;  Qålå: Am See Deiner Gnade;                                                                                                         20
+130;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns;                                                                                   7
+131;  Bittgesang im 6. Modus: Mein Herr, ziehe mich aus dem Strudel der Schuld;                                                          12
 132
-133;Leljå am Montag:
-134;Initialgebet und Psalmen des Tages
+133;  Leljå am Montag:
+134;  Initialgebet und Psalmen des Tages
 135
 136
 137
-138;Erwecke uns, Ps. 134, Ps. 119, 169-176:  ;13
-139;Enjånå: Erwecke uns ;17
+138;  Erwecke uns, Ps. 134, Ps. 119, 169-176:;                                                                                           13
+139;  Enjånå: Erwecke uns;                                                                                                               17
 140
-141;1. Qaumå:
-142;Einführungsgebete: Zur Ehre und Glorie ;3
-143;Eqbå: Meine Gebeine werden aus dem Grabe rufen ;4
-144;Proemion der Mutter Gottes: Preis der Heiligen ;3
-145;Sedrå: Wir erinnern uns ;7
-146;Qålå ḏ-quqåjå (Töpferweise): Eine junge Magd aus dem Hause David ;14
-147;Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein ;12
+141;  1. Qaumå:
+142;  Einführungsgebete: Zur Ehre und Glorie;                                                                                            3
+143;  Eqbå: Meine Gebeine werden aus dem Grabe rufen;                                                                                    4
+144;  Proemion der Mutter Gottes: Preis der Heiligen;                                                                                    3
+145;  Sedrå: Wir erinnern uns;                                                                                                           7
+146;  Qålå ḏ-quqåjå (Töpferweise): Eine junge Magd aus dem Hause David;                                                                  14
+147;  Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein;                                                                                12
 148
-149;2. Qaumå:
-150;Einführungsgebete: Mische, Herr ;3
-151;Eqbå: Ihr seid die Helden ;3
-152;Proemion der Heiligen: Lobpreis dem Heiligen Vater ;4
-153;Sedrå: Wenn wir verlangen ;7
-154;Qålå ḏ-Quqåjå (Töpferweise): Wir erinnern uns an Moses ;9
-155;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns ;7
+149;  2. Qaumå:
+150;  Einführungsgebete: Mische, Herr;                                                                                                   3
+151;  Eqbå: Ihr seid die Helden;                                                                                                         3
+152;  Proemion der Heiligen: Lobpreis dem Heiligen Vater;                                                                                4
+153;  Sedrå: Wenn wir verlangen;                                                                                                         7
+154;  Qålå ḏ-Quqåjå (Töpferweise): Wir erinnern uns an Moses;                                                                            9
+155;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns;                                                                                   7
 156
-157;3. Qaumå:
-158;Einführungsgebete: Aufrichtig und dankbar ;3
-159;Eqbå: Draussen vor der Tür ;2
-160;Proemion der Buße: Preis, der Tür der Gnade ;4
-161;Sedrå: Allmächtiger Herr ;13
-162;Qålå ḏ-Quqåjå: Bei Nacht wollen wir uns erheben ;13
+157;  3. Qaumå:
+158;  Einführungsgebete: Aufrichtig und dankbar;                                                                                         3
+159;  Eqbå: Draussen vor der Tür;                                                                                                        2
+160;  Proemion der Buße: Preis, der Tür der Gnade;                                                                                       4
+161;  Sedrå: Allmächtiger Herr;                                                                                                          13
+162;  Qålå ḏ-Quqåjå: Bei Nacht wollen wir uns erheben;                                                                                   13
 163
-164;Båʿūṯå von Mår Balai: Du, der Du Mitleid hast ;8
-165;Proemion: Preis, dem Strahlenden ;4
-166;Sedrå: Während wir liebevolle und geschätzte Erinnerung begehen ;7
+164;  Båʿūṯå von Mår Balai: Du, der Du Mitleid hast;                                                                                     8
+165;  Proemion: Preis, dem Strahlenden;                                                                                                  4
+166;  Sedrå: Während wir liebevolle und geschätzte Erinnerung begehen;                                                                   7
 167
-168;Maurbå:
+168;  Maurbå:
 169
 170
 171
 172
-173;Psalm 132 mit Responsen:  ;9
-174;Heiligengedenken: Der Gerechte möge auferstehen ;5
-175;Proemion für den Heiligen des Tages: Preis, Dank, Glorie ;3
-176;Sedrå: Wenn wir mit festlichem Lob ;8
-177; Qålå ḏ- quqåjå: Gott rief mich ;14
-178;Båʿūṯå von Mår Jacob: Wir rufen zu Dir ;8
+173;  Psalm 132 mit Responsen:;                                                                                                          9
+174;  Heiligengedenken: Der Gerechte möge auferstehen;                                                                                   5
+175;  Proemion für den Heiligen des Tages: Preis, Dank, Glorie;                                                                          3
+176;  Sedrå: Wenn wir mit festlichem Lob;                                                                                                8
+177;  Qålå ḏ- quqåjå: Gott rief mich;                                                                                                    14
+178;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            8
 179
-180;Saprå für Montag
-181;Einführungsgebete: Schöpfer des Morgens ;4
-182;Psalm 51:  ;12
-183;Psalm 63:  ;14
-184;Enjånå: Ich stehe vor Dir, Ich stehe vor Dir ;15
-185;Psalmen 148, 149, 150 (wie Leljå Sonntag) …………………………………………
-186;Eqbå: Erwecke mich ;3
-187;Proemion: Preis der gesegneten Natur ;5
-188;Sedrå: Herr, Gott  ;7
-189;Qålå ḏ- Pirmå:  ;25
-190;Etrå  ;4
-191;Qålå ḏ-båṯar pirmå: Am Morgen, für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:   ;25
-192;Quqlion: Höre meine Worte ;5
-193;Eqbå: Söhne des Vaters ;3
-194;Weiterer Eqbå: Zu den Tiefen ;4
-195;Proemion: zur Auferstehung ;3
-196;Sedrå: Herr, Gott ;6
-197;Qålå: Am Morgen künden die Trompeten ;7
-198;Båʿūṯå von Mår Jacob: Öffne uns ;8
-199;Conclusio: Psalm 92;15
+180;  Saprå für Montag
+181;  Einführungsgebete: Schöpfer des Morgens;                                                                                           4
+182;  Psalm 51:;                                                                                                                         12
+183;  Psalm 63:;                                                                                                                         14
+184;  Enjånå: Ich stehe vor Dir, Ich stehe vor Dir;                                                                                      15
+185;  Psalmen 148, 149, 150 (wie Leljå Sonntag) …………………………………………
+186;  Eqbå: Erwecke mich;                                                                                                                3
+187;  Proemion: Preis der gesegneten Natur;                                                                                              5
+188;  Sedrå: Herr, Gott;                                                                                                                 7
+189;  Qålå ḏ- Pirmå:;                                                                                                                    25
+190;  Etrå;                                                                                                                              4
+191;  Qålå ḏ-båṯar pirmå: Am Morgen, für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:;        25
+192;  Quqlion: Höre meine Worte;                                                                                                         5
+193;  Eqbå: Söhne des Vaters;                                                                                                            3
+194;  Weiterer Eqbå: Zu den Tiefen;                                                                                                      4
+195;  Proemion: zur Auferstehung;                                                                                                        3
+196;  Sedrå: Herr, Gott;                                                                                                                 6
+197;  Qålå: Am Morgen künden die Trompeten;                                                                                              7
+198;  Båʿūṯå von Mår Jacob: Öffne uns;                                                                                                   8
+199;  Conclusio: Psalm 92;                                                                                                               15
 200
-201;3. Stunde am Montag
-202;Initial Gebete/Einführungsgebete, (Rezitation): Ehre dem Vater, Gewähre uns ;5
-203;Psalm 141:   ;6
-204;8
+201;  3. Stunde am Montag
+202;  Initial Gebete/Einführungsgebete, (Rezitation): Ehre dem Vater, Gewähre uns;                                                       5
+203;  Psalm 141:;                                                                                                                        6
+204;  8
 205
 206
-207;Eqbå: Ich habe gesündigt ;12
-208;Qålå ḏ-pirmå: In Liebe und Vertrauen ;14
-209;Qålå der Gottesmutter: Die Erzengel brachten einen Gruß ;15
-210;Qålå der Buße: Gott ist wahrhaftig, ;6
-211;Qålå für die Verstorbenen: In Jerusalem ;4
-212;Etrå: Nimm an, Gott ;4
-213;Qålå btar Weihrauch: Unser Herr, Jesus Christus ;8
-214;Qålå der Gottesmutter: Die Jungfrau, die fähig war, zu hören ;7
-215;Qålå der Heiligen: Unser Herr, er rief seine Jünger ;6
-216;Qålå für den jeweiligen Heiligen: Schöner und lieblicher als die Sonne ;5
-217;Qålå der des Sonntags: Groß ist der Tag ;4
-218;Qålå der Buße: David, König und Prophet ;7
-219;Qålå der Verstorbenen: Mit den gesegneten Märtyrern ;16
-220;Eqbå: Ich bekenne meine Vergehen ;4
-221;Proemion und Sedrå der Buße: Preis, dem Mächtigen ;18
-222;Qålå: Am Abend rief Abraham ;10
-223;Båʿūṯå von Mår Jacob: Wir rufen zu Dir ;10
-224;Petgåmå: Herr, Jesus Christus ;4
+207;  Eqbå: Ich habe gesündigt;                                                                                                          12
+208;  Qålå ḏ-pirmå: In Liebe und Vertrauen;                                                                                              14
+209;  Qålå der Gottesmutter: Die Erzengel brachten einen Gruß;                                                                           15
+210;  Qålå der Buße: Gott ist wahrhaftig,;                                                                                               6
+211;  Qålå für die Verstorbenen: In Jerusalem;                                                                                           4
+212;  Etrå: Nimm an, Gott;                                                                                                               4
+213;  Qålå btar Weihrauch: Unser Herr, Jesus Christus;                                                                                   8
+214;  Qålå der Gottesmutter: Die Jungfrau, die fähig war, zu hören;                                                                      7
+215;  Qålå der Heiligen: Unser Herr, er rief seine Jünger;                                                                               6
+216;  Qålå für den jeweiligen Heiligen: Schöner und lieblicher als die Sonne;                                                            5
+217;  Qålå der des Sonntags: Groß ist der Tag;                                                                                           4
+218;  Qålå der Buße: David, König und Prophet;                                                                                           7
+219;  Qålå der Verstorbenen: Mit den gesegneten Märtyrern;                                                                               16
+220;  Eqbå: Ich bekenne meine Vergehen;                                                                                                  4
+221;  Proemion und Sedrå der Buße: Preis, dem Mächtigen;                                                                                 18
+222;  Qålå: Am Abend rief Abraham;                                                                                                       10
+223;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            10
+224;  Petgåmå: Herr, Jesus Christus;                                                                                                     4
 225
-226;Sutårå am Montag
-227;Proemion: Preis dem gütigen Herrn ;5
-228;Sedrå: Gott, Du bist die Quelle der Güte ;4
-229;Qålå: Am See Deiner Gnade ;20
-230;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns ;7
-231;Bittgesang im 6. Modus: Mein Herr, ziehe mich aus dem Strudel der Schuld ;12
+226;  Sutårå am Montag
+227;  Proemion: Preis dem gütigen Herrn;                                                                                                 5
+228;  Sedrå: Gott, Du bist die Quelle der Güte;                                                                                          4
+229;  Qålå: Am See Deiner Gnade;                                                                                                         20
+230;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns;                                                                                   7
+231;  Bittgesang im 6. Modus: Mein Herr, ziehe mich aus dem Strudel der Schuld;                                                          12
 232
-233;Leljå am Montag:
-234;Initialgebet und Psalmen des Tages
-235;Erwecke uns, Ps. 134, Ps. 119, 169-176:  ;13
-236;Enjånå: Erwecke uns ;17
+233;  Leljå am Montag:
+234;  Initialgebet und Psalmen des Tages
+235;  Erwecke uns, Ps. 134, Ps. 119, 169-176:;                                                                                           13
+236;  Enjånå: Erwecke uns;                                                                                                               17
 237
 238
 239
 240
-241;1. Qaumå:
-242;Einführungsgebete: Zur Ehre und Glorie ;3
-243;Eqbå: Meine Gebeine werden aus dem Grabe rufen ;4
-244;Proemion der Mutter Gottes: Preis der Heiligen ;3
-245;Sedrå: Wir erinnern uns ;7
-246;Qålå ḏ-quqåjå (Töpferweise): Eine junge Magd aus dem Hause David ;14
-247;Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein ;12
+241;  1. Qaumå:
+242;  Einführungsgebete: Zur Ehre und Glorie;                                                                                            3
+243;  Eqbå: Meine Gebeine werden aus dem Grabe rufen;                                                                                    4
+244;  Proemion der Mutter Gottes: Preis der Heiligen;                                                                                    3
+245;  Sedrå: Wir erinnern uns;                                                                                                           7
+246;  Qålå ḏ-quqåjå (Töpferweise): Eine junge Magd aus dem Hause David;                                                                  14
+247;  Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein;                                                                                12
 248
-249;2. Qaumå:
-250;Einführungsgebete: Mische, Herr ;3
-251;Eqbå: Ihr seid die Helden ;3
-252;Proemion der Heiligen: Lobpreis dem Heiligen Vater ;4
-253;Sedrå: Wenn wir verlangen ;7
-254;Qålå ḏ-Quqåjå (Töpferweise): Wir erinnern uns an Moses ;9
-255;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns ;7
+249;  2. Qaumå:
+250;  Einführungsgebete: Mische, Herr;                                                                                                   3
+251;  Eqbå: Ihr seid die Helden;                                                                                                         3
+252;  Proemion der Heiligen: Lobpreis dem Heiligen Vater;                                                                                4
+253;  Sedrå: Wenn wir verlangen;                                                                                                         7
+254;  Qålå ḏ-Quqåjå (Töpferweise): Wir erinnern uns an Moses;                                                                            9
+255;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns;                                                                                   7
 256
-257;3. Qaumå:
-258;Einführungsgebete: Aufrichtig und dankbar ;3
-259;Eqbå: Draussen vor der Tür ;2
-260;Proemion der Buße: Preis, der Tür der Gnade ;4
-261;Sedrå: Allmächtiger Herr ;13
-262;Qålå ḏ-Quqåjå: Bei Nacht wollen wir uns erheben ;13
+257;  3. Qaumå:
+258;  Einführungsgebete: Aufrichtig und dankbar;                                                                                         3
+259;  Eqbå: Draussen vor der Tür;                                                                                                        2
+260;  Proemion der Buße: Preis, der Tür der Gnade;                                                                                       4
+261;  Sedrå: Allmächtiger Herr;                                                                                                          13
+262;  Qålå ḏ-Quqåjå: Bei Nacht wollen wir uns erheben;                                                                                   13
 263
-264;Båʿūṯå von Mår Balai: Du, der Du Mitleid hast ;8
-265;Proemion: Preis, dem Strahlenden ;4
-266;Sedrå: Während wir liebevolle und geschätzte Erinnerung begehen ;7
+264;  Båʿūṯå von Mår Balai: Du, der Du Mitleid hast;                                                                                     8
+265;  Proemion: Preis, dem Strahlenden;                                                                                                  4
+266;  Sedrå: Während wir liebevolle und geschätzte Erinnerung begehen;                                                                   7
 267
-268;Maurbå:
+268;  Maurbå:
 269
-270;Psalm 132 mit Responsen:  ;9
-271;Heiligengedenken: Der Gerechte möge auferstehen ;5
-272;Proemion für den Heiligen des Tages: Preis, Dank, Glorie ;3
-273;Sedrå: Wenn wir mit festlichem Lob ;8
+270;  Psalm 132 mit Responsen:;                                                                                                          9
+271;  Heiligengedenken: Der Gerechte möge auferstehen;                                                                                   5
+272;  Proemion für den Heiligen des Tages: Preis, Dank, Glorie;                                                                          3
+273;  Sedrå: Wenn wir mit festlichem Lob;                                                                                                8
 274
 275
 276
-277; Qålå ḏ- quqåjå: Gott rief mich ;14
-278;Båʿūṯå von Mår Jacob: Wir rufen zu Dir ;8
+277;  Qålå ḏ- quqåjå: Gott rief mich;                                                                                                    14
+278;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            8
 279
-280;Saprå für Montag
-281;Einführungsgebete: Schöpfer des Morgens ;4
-282;Psalm 51:  ;12
-283;Psalm 63:  ;14
-284;Enjånå: Ich stehe vor Dir, Ich stehe vor Dir ;15
-285;Psalmen 148, 149, 150 (wie Sonntag)
-286;Eqbå: Erwecke mich ;3
-287;Proemion: Preis der gesegneten Natur ;5
-288;Sedrå: Herr, Gott ;7
-289;Qålå ḏ- Pirmå: Antworte mir, Herr ;25
-290;Etrå: Durch diesen Weihrauch ;4
-291;Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): Am Morgen, lass uns eilen ;3
-292;Qålå für die Gottesmutter: Vom Vater ausgehend, kam der Herr ;5
-293;Qålå für die Heiligen: Unser Herr Jesus ;5
-294;Qålå für einen Heiligen: Gesegnet bist Du  ;4
-295;Qålå zur Buße: Aus der Grube des Elends  ;5
-296;Qålå für die Verstorbenen: Lass uns erinnern  ;5
-297;Quqlion: Höre meine Worte ;5
-298;Eqbå: Söhne des Vaters ;3
-299;Weiterer Eqbå: Zu den Tiefen ;4
-300;Proemion: Preis dem guten Herrn ;3
-301;Sedrå: Herr, Gott ;6
-302;Qålå: Am Morgen künden die Trompeten ;7
-303;Båʿūṯå von Mår Jacob: Öffne uns ;8
-304;Conclusio: Psalm 92 ;15
+280;  Saprå für Montag
+281;  Einführungsgebete: Schöpfer des Morgens;                                                                                           4
+282;  Psalm 51:;                                                                                                                         12
+283;  Psalm 63:;                                                                                                                         14
+284;  Enjånå: Ich stehe vor Dir, Ich stehe vor Dir;                                                                                      15
+285;  Psalmen 148, 149, 150 (wie Sonntag)
+286;  Eqbå: Erwecke mich;                                                                                                                3
+287;  Proemion: Preis der gesegneten Natur;                                                                                              5
+288;  Sedrå: Herr, Gott;                                                                                                                 7
+289;  Qålå ḏ- Pirmå: Antworte mir, Herr;                                                                                                 25
+290;  Etrå: Durch diesen Weihrauch;                                                                                                      4
+291;  Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): Am Morgen, lass uns eilen;                                                                3
+292;  Qålå für die Gottesmutter: Vom Vater ausgehend, kam der Herr;                                                                      5
+293;  Qålå für die Heiligen: Unser Herr Jesus;                                                                                           5
+294;  Qålå für einen Heiligen: Gesegnet bist Du;                                                                                         4
+295;  Qålå zur Buße: Aus der Grube des Elends;                                                                                           5
+296;  Qålå für die Verstorbenen: Lass uns erinnern;                                                                                      5
+297;  Quqlion: Höre meine Worte;                                                                                                         5
+298;  Eqbå: Söhne des Vaters;                                                                                                            3
+299;  Weiterer Eqbå: Zu den Tiefen;                                                                                                      4
+300;  Proemion: Preis dem guten Herrn;                                                                                                   3
+301;  Sedrå: Herr, Gott;                                                                                                                 6
+302;  Qålå: Am Morgen künden die Trompeten;                                                                                              7
+303;  Båʿūṯå von Mår Jacob: Öffne uns;                                                                                                   8
+304;  Conclusio: Psalm 92;                                                                                                               15
 305
-306;3. Stunde am Montag
+306;  3. Stunde am Montag
 307
-308;Einführungsgebete: Reinige uns ;2
+308;  Einführungsgebete: Reinige uns;                                                                                                    2
 309
 310
 311
-312;Proemion: Preis dem einzigen Gott ;2
-313;Sedrå: Wir bitten Dich ;9
-314;Qålå d-quqåjå: Unser Vater im Himmel ;10
-315;Baʿūṯå von Mar Jacob: Wir rufen zu Dir ;7
+312;  Proemion: Preis dem einzigen Gott;                                                                                                 2
+313;  Sedrå: Wir bitten Dich;                                                                                                            9
+314;  Qålå d-quqåjå: Unser Vater im Himmel;                                                                                              10
+315;  Baʿūṯå von Mar Jacob: Wir rufen zu Dir;                                                                                            7
 316
-317;6. Stunde am Montag
-318;Proemion: Preis ihm ;2
-319;Sedrå: Herr, Gott, heilig und preiswürdig ;4
-320;Qålå: Maria stand inmitten der Versammlungc ;6
-321;Baʿūṯå von Mar Balai: Durch das Gebet Deiner Mutter
+317;  6. Stunde am Montag
+318;  Proemion: Preis ihm;                                                                                                               2
+319;  Sedrå: Herr, Gott, heilig und preiswürdig;                                                                                         4
+320;  Qålå: Maria stand inmitten der Versammlungc;                                                                                       6
+321;  Baʿūṯå von Mar Balai: Durch das Gebet Deiner Mutter
 322
-323;9. Stunde am Montag
-324;Proemion: Preis dem Lebendigen ;3
-325;Sedrå: In der Stunde, in der Du erscheinen wirst ;5
-326;Qålå: Von allen Verschiedenen ;8
+323;  9. Stunde am Montag
+324;  Proemion: Preis dem Lebendigen;                                                                                                    3
+325;  Sedrå: In der Stunde, in der Du erscheinen wirst;                                                                                  5
+326;  Qålå: Von allen Verschiedenen;                                                                                                     8
 327
-328;Ramšå für Dienstag
+328;  Ramšå für Dienstag
 329
-330;Bereue, bereue ;4
-331;Bereue, bereue ;4
-332;Psalmgruppe:  ;6
-333;Eqbå: Lass Deine Ohren geneigt sein ;12
-334;Sedrå: Ehre Dir ;8
-335;Qålå ḏ-pirmå: Nimm an, Herr ;7
-336;Qålå der Gottesmutter: Mein Mund genügt nicht ;5
-337;Qålå der Heiligen: Zu jeder Zeit ;6
-338;Qålå der Reue: Bereue, bereue ;4
-339;Qålå für die Verstorbenen: Zu Deiner Rechten, Herr ;4
-340;Etrå: Nimm an, Gott, s. Montag
-341;Qålå nach dem Weihrauch: Meine Seele möge sein ;10
-342;Qålå der Gottesmutter: Gabriel flog auf seinen Flügeln ;8
-343;Qålå der Heiligen: Gesegnet ist er ;6
-344;Qålå für den jeweiligen Heiligen: Du bist ein gutes Beispiel ;5
-345;Qålå für die Kirche: Du bist gesegnet  ;3
-346;Qålå der Buße: Schaue, ich klopfe an die Tür ;7
-347;Qålå der Verstorbenen: Für alle Verstorbenen, die auferstehen ;9
-348;Quqlion: Psalm 103 ;4
-349;Eqbå: Der Böse schreit ;3
-350;Proemion und Sedrå der Buße: Wir bitten Dich ;7
-351;Qålå: Gesegnet ist er ;8
-352;Båʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer Echos)  ;10
+330;  Bereue, bereue;                                                                                                                    4
+331;  Bereue, bereue;                                                                                                                    4
+332;  Psalmgruppe:;                                                                                                                      6
+333;  Eqbå: Lass Deine Ohren geneigt sein;                                                                                               12
+334;  Sedrå: Ehre Dir;                                                                                                                   8
+335;  Qålå ḏ-pirmå: Nimm an, Herr;                                                                                                       7
+336;  Qålå der Gottesmutter: Mein Mund genügt nicht;                                                                                     5
+337;  Qålå der Heiligen: Zu jeder Zeit;                                                                                                  6
+338;  Qålå der Reue: Bereue, bereue;                                                                                                     4
+339;  Qålå für die Verstorbenen: Zu Deiner Rechten, Herr;                                                                                4
+340;  Etrå: Nimm an, Gott, s. Montag
+341;  Qålå nach dem Weihrauch: Meine Seele möge sein;                                                                                    10
+342;  Qålå der Gottesmutter: Gabriel flog auf seinen Flügeln;                                                                            8
+343;  Qålå der Heiligen: Gesegnet ist er;                                                                                                6
+344;  Qålå für den jeweiligen Heiligen: Du bist ein gutes Beispiel;                                                                      5
+345;  Qålå für die Kirche: Du bist gesegnet;                                                                                             3
+346;  Qålå der Buße: Schaue, ich klopfe an die Tür;                                                                                      7
+347;  Qålå der Verstorbenen: Für alle Verstorbenen, die auferstehen;                                                                     9
+348;  Quqlion: Psalm 103;                                                                                                                4
+349;  Eqbå: Der Böse schreit;                                                                                                            3
+350;  Proemion und Sedrå der Buße: Wir bitten Dich;                                                                                      7
+351;  Qålå: Gesegnet ist er;                                                                                                             8
+352;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer Echos);                                                                           10
 353
-354;Sutårå am Montag
-355;Proemion: Preis dem Ewigen ;4
-356;Sedrå: Herr, Gott ;6
-357;Qålå: Oh, Du, der Du getötet wurdest ;10
-358;Weiterer Qålå: Herr des Abends ;5
-359;Båʿūṯå von Mår Jacob, Wir rufen zu Dir, (anderer Echos) ;7
+354;  Sutårå am Montag
+355;  Proemion: Preis dem Ewigen;                                                                                                        4
+356;  Sedrå: Herr, Gott;                                                                                                                 6
+357;  Qålå: Oh, Du, der Du getötet wurdest;                                                                                              10
+358;  Weiterer Qålå: Herr des Abends;                                                                                                    5
+359;  Båʿūṯå von Mår Jacob, Wir rufen zu Dir, (anderer Echos);                                                                           7
 360
 361
 362
-363;Psalm 91 ;7
+363;  Psalm 91;                                                                                                                          7
 364
-365;Leljå am Dienstag
-366;Initialgebet und Psalm des Tages s. Leljå Monta
-367;Enjånå: Erwache, Sünder, ;15
+365;  Leljå am Dienstag
+366;  Initialgebet und Psalm des Tages s. Leljå Monta
+367;  Enjånå: Erwache, Sünder,;                                                                                                          15
 368
-369;1. Qaumå:
-370;Einführungsgebete: s. Montag
-371;Eqbå: Die Jungfrau rief mich ;2
-372;Proemion der Mutter Gottes: Preis dem ewigen Licht ;3
-373;Sedrå: Welcher Verstand, welche Zunge ;7
-374;Qålå: Wie gerecht ist der Tag  ;9
-375;Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein(anderer echos) ;12
+369;  1. Qaumå:
+370;  Einführungsgebete: s. Montag
+371;  Eqbå: Die Jungfrau rief mich;                                                                                                      2
+372;  Proemion der Mutter Gottes: Preis dem ewigen Licht;                                                                                3
+373;  Sedrå: Welcher Verstand, welche Zunge;                                                                                             7
+374;  Qålå: Wie gerecht ist der Tag;                                                                                                     9
+375;  Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein(anderer echos);                                                                 12
 376
-377;2. Qaumå:
-378;Einführungsgebete:
-379;Eqbå: Gesegnet sei der Starke ;2
-380;Proemion (für die Heiligen): Preis sei Gott, dem Wort ;2
-381;Sedrå: Wir bitten Dich ;5
-382;Qålå: Oh, warum, gnädiger Herr ;9
-383;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos) ;7
+377;  2. Qaumå:
+378;  Einführungsgebete:
+379;  Eqbå: Gesegnet sei der Starke;                                                                                                     2
+380;  Proemion (für die Heiligen): Preis sei Gott, dem Wort;                                                                             2
+381;  Sedrå: Wir bitten Dich;                                                                                                            5
+382;  Qålå: Oh, warum, gnädiger Herr;                                                                                                    9
+383;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos);                                                                   7
 384
-385;3. Qaumå:
-386;Einführungsgebete
-387;Eqbå: Wehe mir, wer ist in der Gruppe des Gerechten ;2
-388;Proemion der Buße: Preis ihm, der in der Trinität ;2
-389;Sedrå: Wir bieten Dir, Gott. ;5
-390;Qålå: David, der Sohn von Jesse  ;9
-391;Båʿūṯå von Mår Balai: Du, der Du Mitleid hast /anderer Echos) ;8
-392;Proemion: s. Montag
-393;Qålå: Du bist ein weiser Arzt ;12
-394;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos) ;9
+385;  3. Qaumå:
+386;  Einführungsgebete
+387;  Eqbå: Wehe mir, wer ist in der Gruppe des Gerechten;                                                                               2
+388;  Proemion der Buße: Preis ihm, der in der Trinität;                                                                                 2
+389;  Sedrå: Wir bieten Dir, Gott.;                                                                                                      5
+390;  Qålå: David, der Sohn von Jesse;                                                                                                   9
+391;  Båʿūṯå von Mår Balai: Du, der Du Mitleid hast /anderer Echos);                                                                     8
+392;  Proemion: s. Montag
+393;  Qålå: Du bist ein weiser Arzt;                                                                                                     12
+394;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos);                                                                   9
 395
 396
 397
 398
-399;Saprå für Dienstag
+399;  Saprå für Dienstag
 400
-401;Einführungsgebete: Schöpfer des Morgens, s. Montag
-402;Psalm 63:  ;14
-403;Enjånå: Licht der Welt ;7
-404;Psalm: 113  ;3
-405;Eqbå: In freudvollem Licht ;2
-406;Proemion: Preis dem, der gepriesen und geehrt ist im Himmel ;3
-407;Sedrå: Mögen die heiligen Väter ;5
-408;Qålå ḏ- Pirmå: Am Morgen weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;30
-409;Etrå: Durch diesen Weihrauch ;4
-410;Qålå ḏ-båṯar pirmå: In der Zeit des Morgens, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;30
-411;Quqlion: Sei nicht neidisch und Psalm 137, 7 ;12
-412;Eqbå: In der Zeit des Morgens ;2
-413;Proemion der Buße: Preis ;3
-414;Sedrå: Du bist der glorreiche und gesegnete Gott ;6
-415;Qålå: In der Zeit des Morgens ;7
-416;Båʿūṯå von Mår Ephrem: Herr, habe Gnade, (anderer echos) ;8
+401;  Einführungsgebete: Schöpfer des Morgens, s. Montag
+402;  Psalm 63:;                                                                                                                         14
+403;  Enjånå: Licht der Welt;                                                                                                            7
+404;  Psalm: 113;                                                                                                                        3
+405;  Eqbå: In freudvollem Licht;                                                                                                        2
+406;  Proemion: Preis dem, der gepriesen und geehrt ist im Himmel;                                                                       3
+407;  Sedrå: Mögen die heiligen Väter;                                                                                                   5
+408;  Qålå ḏ- Pirmå: Am Morgen weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:;      30
+409;  Etrå: Durch diesen Weihrauch;                                                                                                      4
+410;  Qålå ḏ-båṯar pirmå:;                                                                                                               30
+411;  Quqlion: Sei nicht neidisch und Psalm 137, 7;                                                                                      12
+412;  Eqbå: In der Zeit des Morgens;                                                                                                     2
+413;  Proemion der Buße: Preis;                                                                                                          3
+414;  Sedrå: Du bist der glorreiche und gesegnete Gott;                                                                                  6
+415;  Qålå: In der Zeit des Morgens;                                                                                                     7
+416;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade, (anderer echos);                                                                          8
 417
-418;3. Stunde am Dienstag
+418;  3. Stunde am Dienstag
 419
-420;Einführungsgebete:
-421;Proemion der Buße: Lob dem mitfühlenden Vater ;2
-422;Sedrå: Heile, Herr ;4
-423;Qålå: In Gleichnissen sprach unser Retter ;7
-424;Baʿūṯå von Mår Jacob:  ;7
+420;  Einführungsgebete:
+421;  Proemion der Buße: Lob dem mitfühlenden Vater;                                                                                     2
+422;  Sedrå: Heile, Herr;                                                                                                                4
+423;  Qålå: In Gleichnissen sprach unser Retter;                                                                                         7
+424;  Baʿūṯå von Mår Jacob:;                                                                                                             7
 425
-426;Die sechste Stunde am Dienstag
-427;Proemion: Preis ihm, der hat verherrlicht ;2
+426;  Die sechste Stunde am Dienstag
+427;  Proemion: Preis ihm, der hat verherrlicht;                                                                                         2
 428
 429
 430
-431;Sedrå: Herr Gott ;6
-432;Qålå: Maria sah den Engel ;7
-433;Baʿūṯå von Mår Balai: Durch das Gebet Deiner Mutter, (anderer echos) ;8
+431;  Sedrå: Herr Gott;                                                                                                                  6
+432;  Qålå: Maria sah den Engel;                                                                                                         7
+433;  Baʿūṯå von Mår Balai: Durch das Gebet Deiner Mutter, (anderer echos);                                                              8
 434
-435;Neunte Stunde am Dienstag
+435;  Neunte Stunde am Dienstag
 436
-437;Proemion: Preis dem Strengen ;2
-438;Sedrå: Gott, der Schöpfer des Alls ;5
-439;Qålå: Oh, du, der du starbst in Christus  ;8
-440;Baʿūṯå von Mår Balai: Erneuere, der Du bist voller Gnade, (anderer echos) ;7
+437;  Proemion: Preis dem Strengen;                                                                                                      2
+438;  Sedrå: Gott, der Schöpfer des Alls;                                                                                                5
+439;  Qålå: Oh, du, der du starbst in Christus;                                                                                          8
+440;  Baʿūṯå von Mår Balai: Erneuere, der Du bist voller Gnade, (anderer echos);                                                         7
 441
-442;Ramšå am Mittwoch
+442;  Ramšå am Mittwoch
 443
-444;Initial Gebete/Einführungsgebete
-445;Eqbå: Wir bitten Dich, Mutter Gottes ;2
-446;Sedrå: Wir flehen Dich an und bitten Dich ;6
-447;Qålå ḏ-Pirmå: Mit dem Rauch des Weihrauchs, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-448;Etrå: s. Montag
-449;Qålå ḏ-båṯar Pirmå: Möge eine gute Erinnerung, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-450;Eqbå: Er schaute mit Gnade ;2
-451;Weiterer Eqbå: Friede sei mit dir ;3
-452;Sedrå Welche Zunge ist fähig ;8
-453;Qålå: Du stärkst mich ;9
-454;Båʿūṯå von Mår Jacob: Lass uns teilhaben ;10
+444;  Initial Gebete/Einführungsgebete
+445;  Eqbå: Wir bitten Dich, Mutter Gottes;                                                                                              2
+446;  Sedrå: Wir flehen Dich an und bitten Dich;                                                                                         6
+447;  Qålå ḏ-Pirmå: Mit dem Rauch des Weihrauchs;                                                                                        35
+448;  Etrå: s. Montag
+449;  Qålå ḏ-båṯar Pirmå: Möge eine gute Erinnerung,;                                                                                    35
+450;  Eqbå: Er schaute mit Gnade;                                                                                                        2
+451;  Weiterer Eqbå: Friede sei mit dir;                                                                                                 3
+452;  Sedrå Welche Zunge ist fähig;                                                                                                      8
+453;  Qålå: Du stärkst mich;                                                                                                             9
+454;  Båʿūṯå von Mår Jacob: Lass uns teilhaben;                                                                                          10
 455
-456;Sutårå für Mittwoch
-457;Proemion: Preis dem Ewigen ;2
-458;Sedrå: Ich danke für Deine Gnade ;6
-459;Qålå: Ich habe erwogen ;12
-460;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns, (anderes echos) ;7
+456;  Sutårå für Mittwoch
+457;  Proemion: Preis dem Ewigen;                                                                                                        2
+458;  Sedrå: Ich danke für Deine Gnade;                                                                                                  6
+459;  Qålå: Ich habe erwogen;                                                                                                            12
+460;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns, (anderes echos);                                                                  7
 461
-462;Leljå am Montag:
-463;Initialgebet und Psalmen des Tages:  ;12
-464;Enjånå: Du, der Du wachst und nicht schläfst ;5
+462;  Leljå am Montag:
+463;  Initialgebet und Psalmen des Tages:;                                                                                               12
+464;  Enjånå: Du, der Du wachst und nicht schläfst;                                                                                      5
 465
-466;1. Qaumå:
-467;Einführungsgebete: Zur Ehre und Glorie ;3
-468;Eqbå: Der Vater schrieb einen Brief ;3
-469;Proemion: Preis dem Wort des Ewigen ;2
-470;Sedrå: Oh Heilige Maria ;7
-471;Qålå: Die Jungfrau hat gebracht ;14
+466;  1. Qaumå:
+467;  Einführungsgebete: Zur Ehre und Glorie;                                                                                            3
+468;  Eqbå: Der Vater schrieb einen Brief;                                                                                               3
+469;  Proemion: Preis dem Wort des Ewigen;                                                                                               2
+470;  Sedrå: Oh Heilige Maria;                                                                                                           7
+471;  Qålå: Die Jungfrau hat gebracht;                                                                                                   14
 472
 473
 474
-475;Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein, (anderes echos) ;8
+475;  Båʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein, (anderes echos);                                                               8
 476
-477;2. Qaumå:
-478;Einführungsgebete:
-479;Eqbå: Gesegnet ist ;3
-480;Proemion: s.
-481;Sedrå: Wir bitten Dich ;7
-482;Qålå: Du Gerechter ;9
-483;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns, (anderes echos), ;7
+477;  2. Qaumå:
+478;  Einführungsgebete:
+479;  Eqbå: Gesegnet ist;                                                                                                                3
+480;  Proemion: s.
+481;  Sedrå: Wir bitten Dich;                                                                                                            7
+482;  Qålå: Du Gerechter;                                                                                                                9
+483;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns, (anderes echos),;                                                                 7
 484
-485;3. Qaumå:
-486;Einführungsgebete:
-487;Eqbå: Gib Ruhe, Herr ;2
-488;Sedrå: Herr Jesus Christus ;6
-489;Qålå: Unsere Väter und unsere Brüder ;13
-490;Båʿūṯå von Mår Balai: Erneuere, (anderes echos) ;8
-491;Proemion:
-492;Qålå: Erblicke ;8
-493;Båʿūṯå von Mår Ephrem: Gott, habe Gnade mit uns ;6
+485;  3. Qaumå:
+486;  Einführungsgebete:
+487;  Eqbå: Gib Ruhe, Herr;                                                                                                              2
+488;  Sedrå: Herr Jesus Christus;                                                                                                        6
+489;  Qålå: Unsere Väter und unsere Brüder;                                                                                              13
+490;  Båʿūṯå von Mår Balai: Erneuere, (anderes echos);                                                                                   8
+491;  Proemion:
+492;  Qålå: Erblicke;                                                                                                                    8
+493;  Båʿūṯå von Mår Ephrem: Gott, habe Gnade mit uns;                                                                                   6
 494
-495;Saprå für Mittwoch
-496;Einführungsgebete und Psalmen
-497;Enjånå: Mit der heiligen Jungfrau ;9
-498;Psalmen 148, 149, 150 (wie Sonntag)
-499;Eqbå: Möge Maria ;1
-500;Proemion:
-501;Sedrå: Wir flehen und bitten Dich ;4
-502;Qålå ḏ- Pirmå: Möge der Rauch des Weihrauchs, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-503;Etrå: Durch diesen Weihrauch
-504;Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): In der Zeit, in der das Licht erscheint, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;30
+495;  Saprå für Mittwoch
+496;  Einführungsgebete und Psalmen
+497;  Enjånå: Mit der heiligen Jungfrau;                                                                                                 9
+498;  Psalmen 148, 149, 150 (wie Sonntag)
+499;  Eqbå: Möge Maria;                                                                                                                  1
+500;  Proemion:
+501;  Sedrå: Wir flehen und bitten Dich;                                                                                                 4
+502;  Qålå ḏ- Pirmå: Möge der Rauch des Weihrauchs;                                                                                      35
+503;  Etrå: Durch diesen Weihrauch
+504;  Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): in der das Licht erscheint,;                                                              30
 505
 506
 507
-508;Quqlion: Der Reiche unter dem Volk ;5
-509;Eqbå: Friede sei mit Dir, Junfrau ;2
-510;Weiterer Eqbå: Friede sei mit Dir, kostbare Braut ;4
-511;Proemion:
-512;Sedrå: Wir bitten Dich ;6
-513;Qålå: Gepriesen ist Christus ;7
-514;Båʿūṯå von Mår Jacob: Lass uns teilhaben ;8
+508;  Quqlion: Der Reiche unter dem Volk;                                                                                                5
+509;  Eqbå: Friede sei mit Dir, Junfrau;                                                                                                 2
+510;  Weiterer Eqbå: Friede sei mit Dir, kostbare Braut;                                                                                 4
+511;  Proemion:
+512;  Sedrå: Wir bitten Dich;                                                                                                            6
+513;  Qålå: Gepriesen ist Christus;                                                                                                      7
+514;  Båʿūṯå von Mår Jacob: Lass uns teilhaben;                                                                                          8
 515
-516;Dritte Stunde am Mittwoch
+516;  Dritte Stunde am Mittwoch
 517
-518;3. Stunde am Mittwoch
-519;Proemion: Preis der Großen ;2
-520;Sedrå: Mit festlichem Lob ;5
-521;Qålå: Gepriesen sei die gepriesene Maria ;8
-522;Baʿūṯå von Mar Jacob: Möge unser Gebet ;7
+518;  3. Stunde am Mittwoch
+519;  Proemion: Preis der Großen;                                                                                                        2
+520;  Sedrå: Mit festlichem Lob;                                                                                                         5
+521;  Qålå: Gepriesen sei die gepriesene Maria;                                                                                          8
+522;  Baʿūṯå von Mar Jacob: Möge unser Gebet;                                                                                            7
 523
 524
-525;6. Stunde am Mittwoch
-526;Proemion: Preis dem Hohen ;2
-527;Sedrå: Nimm an, Herr ;4
-528;Qålå: Friede sei mit Dir, Maria ;6
-529;Baʿūṯå von Mar Balai: Durch das Gebet Deiner Mutter, (anderer echos) ;8
+525;  6. Stunde am Mittwoch
+526;  Proemion: Preis dem Hohen;                                                                                                         2
+527;  Sedrå: Nimm an, Herr;                                                                                                              4
+528;  Qålå: Friede sei mit Dir, Maria;                                                                                                   6
+529;  Baʿūṯå von Mar Balai: Durch das Gebet Deiner Mutter, (anderer echos);                                                              8
 530
-531;9. Stunde am Mittwoch
-532;Proemion: Preis dem guten Herrn ;3
-533;Sedrå: Wir bitten Dich, Herr ;5
-534;Qålå: Erhebe die Toten ;6
-535;Baʿūṯå von Mar Balai: Erneuere, (anderer echos) ;8
+531;  9. Stunde am Mittwoch
+532;  Proemion: Preis dem guten Herrn;                                                                                                   3
+533;  Sedrå: Wir bitten Dich, Herr;                                                                                                      5
+534;  Qålå: Erhebe die Toten;                                                                                                            6
+535;  Baʿūṯå von Mar Balai: Erneuere, (anderer echos);                                                                                   8
 536
 537
-538;Ramšå fürDonnerstag
+538;  Ramšå fürDonnerstag
 539
-540;Einführungsgebete (Rezitation) und Psalmverse ;4
-541;Eqbå: Jene im Himmel ;1
-542;Proemion: Preis ihm in den Höhen ;2
-543;Sedrå: Wir bitten Dich, Herr ;3
-544;Qålå ḏ-pirmå: Mit der Stimme des Preises, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-545;Quqlion der Buße: 5. Echos, Herr, erhöre mein Gebet ;4
-546;Eqbå: Empfange Herr ;3
-547;Proemion: Preis dem Glorreichen ;2
-548;Sedrå: Wir erbitten von Dir ;4
-549;Qålå: Das Licht des Tages ;6
-550;Baʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer echos) ;9
+540;  Einführungsgebete (Rezitation) und Psalmverse;                                                                                     4
+541;  Eqbå: Jene im Himmel;                                                                                                              1
+542;  Proemion: Preis ihm in den Höhen;                                                                                                  2
+543;  Sedrå: Wir bitten Dich, Herr;                                                                                                      3
+544;  Qålå ḏ-pirmå: Mit der Stimme des Preises, weitere für die Gottesmutter;                                                            35
+545;  Quqlion der Buße: 5. Echos, Herr, erhöre mein Gebet;                                                                               4
+546;  Eqbå: Empfange Herr;                                                                                                               3
+547;  Proemion: Preis dem Glorreichen;                                                                                                   2
+548;  Sedrå: Wir erbitten von Dir;                                                                                                       4
+549;  Qålå: Das Licht des Tages;                                                                                                         6
+550;  Baʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer echos);                                                                           9
 551
 552
 553
-554;I. Qaumå
-555;Einführungsgebete s. Montag
-556;Eqbå: Deine Mysterien ;3
-557;Proemion: Preis der Tür der Gnade ;2
-558;Sedrå: Wir bitten Dich, Herr ;5
-559;Qålå: Herr, Tadle mich nicht ;6
-560;Baʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer echos), 7 Mi. ;7
+554;  I. Qaumå
+555;  Einführungsgebete s. Montag
+556;  Eqbå: Deine Mysterien;                                                                                                             3
+557;  Proemion: Preis der Tür der Gnade;                                                                                                 2
+558;  Sedrå: Wir bitten Dich, Herr;                                                                                                      5
+559;  Qålå: Herr, Tadle mich nicht;                                                                                                      6
+560;  Baʿūṯå von Mår Jacob: Wir rufen zu Dir, (anderer echos), 7 Mi.;                                                                    7
 561
-562;Leljå am Donnerstag:
+562;  Leljå am Donnerstag:
 563
-564;Einführungsgebete und Psalmen,
-565;Enjånå: Warum liebst Du den Schlaf ;20
-566;Qålå: Gott, unser Gott ;15
-567;Baʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein ;10
+564;  Einführungsgebete und Psalmen,
+565;  Enjånå: Warum liebst Du den Schlaf;                                                                                                20
+566;  Qålå: Gott, unser Gott;                                                                                                            15
+567;  Baʿūṯå von Mår Jacob: Möge Dein Gebet mit uns sein;                                                                                10
 568
 569
 570
 571
-572;II. Qaumå
-573;Einführungsgebete:
-574;Eqbå: Es gibt zwölf Säulen ;3
-575;Proemion: Lobpreis ihm ;2
-576;Sedrå: Wir nehmen Zuflucht ;7
-577;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos) ;7
+572;  II. Qaumå
+573;  Einführungsgebete:
+574;  Eqbå: Es gibt zwölf Säulen;                                                                                                        3
+575;  Proemion: Lobpreis ihm;                                                                                                            2
+576;  Sedrå: Wir nehmen Zuflucht;                                                                                                        7
+577;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos);                                                                   7
 578
-579;3. Qaumå:
-580;Einführungsgebete:
-581;Eqbå: Jesus, Sohn des Vaters ;3
-582;Proemion: Preis dem König der Könige ;2
-583;Sedrå: Sei, Herr, in Deiner Gnade ;8
-584;Qålå: Bei Nacht ging Simon Petrus ;8
-585;Båʿūṯå von Mår Balai: Du, der Du Mitleid hast (andere echos) ;8
-586;Proemion:
-587;Qålå: Wie lieblich ist der Tag ;8
-588;Båʿūṯå von Mår Jacob: Wir rufen zu Dir (anderer echos) ;10
+579;  3. Qaumå:
+580;  Einführungsgebete:
+581;  Eqbå: Jesus, Sohn des Vaters;                                                                                                      3
+582;  Proemion: Preis dem König der Könige;                                                                                              2
+583;  Sedrå: Sei, Herr, in Deiner Gnade;                                                                                                 8
+584;  Qålå: Bei Nacht ging Simon Petrus;                                                                                                 8
+585;  Båʿūṯå von Mår Balai: Du, der Du Mitleid hast (andere echos);                                                                      8
+586;  Proemion:
+587;  Qålå: Wie lieblich ist der Tag;                                                                                                    8
+588;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir (anderer echos);                                                                            10
 589
-590;Saprå am Donnerstag
-591;Einführungsgebete
-592;Enjånå: Ich trete vor Dich ;14
-593;Eqbå: Oh Gott, rette mich ;3
-594;Sedrå: Sei gnädig, Herr ;5
-595;Qålå ḏ- Pirmå: Der Gerechte und weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-596;Etrå: ……………………….
-597;Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): Am Morgen sahen die Jünger ;25
-598;Quqlion: Für Dich, Herr ;4
-599;Eqbå: Das Licht ;2
-600;Proemion…………………….
-601;Sedrå: In Deiner Gegenwart ;4
-602;Qålå: Am Morgen, als Jakob ;6
+590;  Saprå am Donnerstag
+591;  Einführungsgebete
+592;  Enjånå: Ich trete vor Dich;                                                                                                        14
+593;  Eqbå: Oh Gott, rette mich;                                                                                                         3
+594;  Sedrå: Sei gnädig, Herr;                                                                                                           5
+595;  Qålå ḏ- Pirmå: Der Gerechte und weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:;35
+596;  Etrå: ……………………….
+597;  Qålå ḏ-båṯar pirmå (Nach dem Weihrauch): Am Morgen sahen die Jünger;                                                               25
+598;  Quqlion: Für Dich, Herr;                                                                                                           4
+599;  Eqbå: Das Licht;                                                                                                                   2
+600;  Proemion…………………….
+601;  Sedrå: In Deiner Gegenwart;                                                                                                        4
+602;  Qålå: Am Morgen, als Jakob;                                                                                                        6
 603
 604
 605
-606;Båʿūṯå von Mår Jacob: Öffne uns, Herr ;9
+606;  Båʿūṯå von Mår Jacob: Öffne uns, Herr;                                                                                             9
 607
-608;3. Stunde am Montag
+608;  3. Stunde am Montag
 609
-610;Einführungsgebete……..
-611;Proemion:……………………….
-612;Sedrå: Wir bitten Dich, Herr ;4
-613;Qålå: Herr unser Herr ;9
-614;Båʿūṯå von Mår Jacob: Wir rufen zu Dir ;7
+610;  Einführungsgebete……..
+611;  Proemion:……………………….
+612;  Sedrå: Wir bitten Dich, Herr;                                                                                                      4
+613;  Qålå: Herr unser Herr;                                                                                                             9
+614;  Båʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            7
 615
 616
-617;6. Stunde
+617;  6. Stunde
 618
-619;Proemion…………………………
-620;Sedrå: Christus unser Gott, Herr ;5
-621;Qålå: Lass ein gutes Gedächtnis ;5
-622;Båʿūṯå von Mår Balai: Durch das Gebet Deiner Mutter ;7
+619;  Proemion…………………………
+620;  Sedrå: Christus unser Gott, Herr;                                                                                                  5
+621;  Qålå: Lass ein gutes Gedächtnis;                                                                                                   5
+622;  Båʿūṯå von Mår Balai: Durch das Gebet Deiner Mutter;                                                                               7
 623
-624;9. Stunde
+624;  9. Stunde
 625
-626;Proemion:……………………….
-627;Sedrå: Wir bitten Dich, Herr ;7
-628;Qålå: Jene, die starben ;7
-629;Båʿūṯå von Mår Balai: Erneuere ;7
+626;  Proemion:……………………….
+627;  Sedrå: Wir bitten Dich, Herr;                                                                                                      7
+628;  Qålå: Jene, die starben;                                                                                                           7
+629;  Båʿūṯå von Mår Balai: Erneuere;                                                                                                    7
 630
 631
-632;Ramšå für Freitag
+632;  Ramšå für Freitag
 633
-634;Einführungsgebete (Rezitation) und Psalmverse ;4
+634;  Einführungsgebete (Rezitation) und Psalmverse;                                                                                     4
 635
-636;Proemion: Preis ihm  ;3
-637;Sedrå: Wir flehen zu Dir, Christus ;4
-638;Qålå ḏ-pirmå: Jungfrau Maria, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:  ;35
-639;Quqlion der Märtyrer: Deinetwegen, 1. Echos ;3
-640;Eqbå: Oh, heilige Märtyrer ;3
-641;Proemion der Märtyrer ;2
-642;Sedrå: Wir erbitten von Dir ;6
-643;Qålå: Märtyrer des einzigen Sohnes ;7
-644;Baʿūṯå von Mår Jacob: Lass uns teilhaben, Herr, (anderer echos) ;9
+636;  Proemion: Preis ihm;                                                                                                               3
+637;  Sedrå: Wir flehen zu Dir, Christus;                                                                                                4
+638;  Qålå ḏ-pirmå: Jungfrau Maria, weitere für die Gottesmutter, für die Heiligen, für einen Heiligen, zur Buße, für die Verstorbenen:; 35
+639;  Quqlion der Märtyrer: Deinetwegen, 1. Echos;                                                                                       3
+640;  Eqbå: Oh, heilige Märtyrer;                                                                                                        3
+641;  Proemion der Märtyrer;                                                                                                             2
+642;  Sedrå: Wir erbitten von Dir;                                                                                                       6
+643;  Qålå: Märtyrer des einzigen Sohnes;                                                                                                7
+644;  Baʿūṯå von Mår Jacob: Lass uns teilhaben, Herr, (anderer echos);                                                                   9
 645
-646;Sutårå: von Freitag
-647;Proemion: Preis dem Sohn ;2
-648;Sedrå: Barmherziger Herr ;5
-649;Qålå: Wir wissen Herr ;6
-650;Baʿūṯå von Mår Jacob: Wir rufen zu Dir ;6
+646;  Sutårå: von Freitag
+647;  Proemion: Preis dem Sohn;                                                                                                          2
+648;  Sedrå: Barmherziger Herr;                                                                                                          5
+649;  Qålå: Wir wissen Herr;                                                                                                             6
+650;  Baʿūṯå von Mår Jacob: Wir rufen zu Dir;                                                                                            6
 651
-652;Leljå von Freitag
-653;Einführungsgebete….
-654;Enjånå: Erwachet, erhebet euch ;9
+652;  Leljå von Freitag
+653;  Einführungsgebete….
+654;  Enjånå: Erwachet, erhebet euch;                                                                                                    9
 655
-656;1. Qaumå der Gottesmutter
-657;Einführungsgebete s. Montag
-658;Eqbå: Ich will singen von der Jungfrau ;3
-659;Proemion: Preis der Gepriesenen und Glorreichen ;2
-660;Sedrå: Christus unser Gott, Herr ;8
-661;Qålå: Möge die Erinnerung ;7
-662;Baʿūṯå von Mår Jacob: Möge dein Gebet, (anderer echos);9
+656;  1. Qaumå der Gottesmutter
+657;  Einführungsgebete s. Montag
+658;  Eqbå: Ich will singen von der Jungfrau;                                                                                            3
+659;  Proemion: Preis der Gepriesenen und Glorreichen;                                                                                   2
+660;  Sedrå: Christus unser Gott, Herr;                                                                                                  8
+661;  Qålå: Möge die Erinnerung;                                                                                                         7
+662;  Baʿūṯå von Mår Jacob: Möge dein Gebet, (anderer echos);                                                                            9
 663
 664
 665
-666;Qaumå des Kreuzes:
-667;Einführungsgebete…………
-668;Eqbå: Ich sah drei Kreuze ;3
-669;Proemion: Lobpreis ihm, der gab sein Kreuz ;2
-670;Sedrå: Christus unser Gott ;7
-671;Qålå d-quqåjå: Von Rom, der Stadt der Könige ;7
-672;Båʿūṯå von Mår Jacob: Sohn, der Du durch Dein Kreuz (anderer echos) ;11
+666;  Qaumå des Kreuzes:
+667;  Einführungsgebete…………
+668;  Eqbå: Ich sah drei Kreuze;                                                                                                         3
+669;  Proemion: Lobpreis ihm, der gab sein Kreuz;                                                                                        2
+670;  Sedrå: Christus unser Gott;                                                                                                        7
+671;  Qålå d-quqåjå: Von Rom, der Stadt der Könige;                                                                                      7
+672;  Båʿūṯå von Mår Jacob: Sohn, der Du durch Dein Kreuz (anderer echos);                                                               11
 673
-674;Zweiter Qaumå:
-675;Einführungsgebete:
-676;Eqbå: In Erinnerung der Heiligen ;3
-677;Weiterer Eqbå: In deinen Gründungen, oh Kirche ;4
-678;Proemion: Lob dem Verehrungswürdigen ;2
-679;Sedrå: Christus unser Gott ;6
-680;Qålå: Eine duftende Rose ;6
-681;Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos) ;7
+674;  Zweiter Qaumå:
+675;  Einführungsgebete:
+676;  Eqbå: In Erinnerung der Heiligen;                                                                                                  3
+677;  Weiterer Eqbå: In deinen Gründungen, oh Kirche;                                                                                    4
+678;  Proemion: Lob dem Verehrungswürdigen;                                                                                              2
+679;  Sedrå: Christus unser Gott;                                                                                                        6
+680;  Qålå: Eine duftende Rose;                                                                                                          6
+681;  Båʿūṯå von Mår Ephrem: Herr, habe Gnade mit uns (anderer echos);                                                                   7
 682
-683;Dritter Qaumå:
-684;Einführungsgebete:
-685;Eqbå: Das Paradies ist der Platz ;3
-686;Proemion der Toten: Preis ihm, der die Hoffnung ist ;2
-687;Sedrå: Gott, Schöpfer und Herr ;4
-688;Qålå: Stehe auf, hilf uns ;8
-689;Båʿūṯå von Mår Balai: Erneuere, der Du bist voll der Gnade (anderer echos) ;4
-690;Proemion: Maria sagte ;2
+683;  Dritter Qaumå:
+684;  Einführungsgebete:
+685;  Eqbå: Das Paradies ist der Platz;                                                                                                  3
+686;  Proemion der Toten: Preis ihm, der die Hoffnung ist;                                                                               2
+687;  Sedrå: Gott, Schöpfer und Herr;                                                                                                    4
+688;  Qålå: Stehe auf, hilf uns;                                                                                                         8
+689;  Båʿūṯå von Mår Balai: Erneuere, der Du bist voll der Gnade (anderer echos);                                                        4
+690;  Proemion: Maria sagte;                                                                                                             2
 691
-692;Andacht für einen Heiligen
-693;Proemion für einen Heiligen ;3
-694;Qålå: Schaue auf die Zeit des Gebetes, Heiliger….  ;8
-695;Båʿūṯå von Mår Jacob: Gewähre uns Anteil ;7
-696;Hymnus der Engel: s. Sonntag……………………………………………………………
+692;  Andacht für einen Heiligen
+693;  Proemion für einen Heiligen;                                                                                                       3
+694;  Qålå: Schaue auf die Zeit des Gebetes, Heiliger….;                                                                                 8
+695;  Båʿūṯå von Mår Jacob: Gewähre uns Anteil;                                                                                          7
+696;  Hymnus der Engel: s. Sonntag……………………………………………………………
