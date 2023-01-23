@@ -5,7 +5,7 @@
 4;    The Litany for the Sick;                                                                10;  P;  ;                                                                  أوشية المرضى
 5;    The Litany for the Travelers;                                                           10;  P;  ;                                                                  أوشية المسافرين
 6;    The Litany for the Oblations;                                                           15;  PD; ;                                                                  أوشية القرابين
-7;    Graciously O Lord ... (Vespers);                                                        ;    T;  `Arikataxioin `P[oic;                                              تفضل يا رب (عشية)
+7;    Graciously O Lord [...] (Vespers);                                                      ;    T;  `Arikataxioin `P[oic;                                              تفضل يا رب (عشية)
 8;    The Praise of the Angels (Matins);                                                      ;    T;  Marenhwc nem niaggeloc;                                            تسبحة الملائكة (باكر)
 9;    The Trisagion;                                                                          ;    T;  `Agioc `o :eoc;                                                    الثلاث تقديسات
 10;   Hail to You - The Doxologies;                                                           4;   C;  ;                                                                  السَّلامُ لَكِ - الذكصولوجيات
@@ -330,10 +330,10 @@
 329;  The Litany of the Priesthood;                                                           3;   ;   `Ari`vmeu`i `P=o=c `mpaikei`eration;                               اوشية الكهنوت
 330;  The Litany of the Assemblies;                                                           3;   ;   Nenjin~wou]@ `cmou `erwou;                                         اوشية الإجتماعات
 331;  The First Litany - Loose the Bound;                                                     3;   ;   Bwl `nnyetcwnh `ebol;                                              الطلبة الأولى
-332;  For You are God...;                                                                     5;   ;   `N~ok gar pe `V];                                                  لأنك أنت هو الله
+332;  For You are God[...];                                                                   5;   ;   `N~ok gar pe `V];                                                  لأنك أنت هو الله
 333;  Agios, Agios, Agios;                                                                    3;   ;   `Agioc `agioc `agioc;                                              أجيوس، أجيوس أجيوس.
 334;  The Institution Narrative;                                                              9;   ;   Af[i `nouwik;                                                      الصلوات التأسيسية
-335;  Therefore Now O God...;                                                                 3;   ;   }nou oun `V] `vIwt;                                                فالآن يا الله
+335;  Therefore Now O God[...];                                                               3;   ;   }nou oun `V] `vIwt;                                                فالآن يا الله
 336;  The Descent of the Holy Spirit;                                                         3;   ;   `Ele`ycon `ymac;                                                   صلاة نزول الروح القدس
 337;  The Second Litany - That They May Be;                                                   4;   ;   Hina `ntouswpi;                                                    الطلبة الثانية - لكي يكون لنا نحن
 338;  The Introduction of the Fraction;                                                       3;   ;   Palin on marensep`hmot;                                            مقدمة القسمة
@@ -435,7 +435,7 @@
 434;  Psali Watos;                                                                            5;   ;   `A Pen[oic Iycouc Pi`,rictoc;                                      إبصالية واطس
 435;  Psali Adam;                                                                             5;   ;   Aiws oubyk `P[oic;                                                 إبصالية أدام
 436;  Andeel (Unction Prayer)
-437;  Can be found...
+437;  Can be found[...]
 438;  Aspasmoses
 439;  Aspasmos Adam;                                                                          ;    ;   Je `,`ou`ws `m`vmou`an;                                            الأسبسمس الأدآم
 440;  Aspasmos Watos - 1;                                                                     ;    ;   }cw`oun je `N~ok;                                                  الأسبسمس الواطس - 1
@@ -529,7 +529,7 @@
 528;  Order of the Reading of Revelation
 529;  Intro Hymn - Ten-oo-osht;                                                               5;   ;   Tenouwst
 530;  The Hymn of St. John;                                                                   8;   ;   `Ere pi`cmou `nte pi~eologoc
-531;  He who have an ear... - Ch 2, 3;                                                        4;   ;   Vy`ete ouon
+531;  He who have an ear[...] - Ch 2, 3;                                                      4;   ;   Vy`ete ouon
 532;  Chapter 1;                                                                              ;    ;   Kevaleon =A;                                                       الإصحاح الأول
 533;  Chapter 2;                                                                              ;    ;   Kevaleon =B;                                                       الإصحاح الثاني
 534;  Chapter 3;                                                                              ;    ;   Kevaleon =G;                                                       الإصحاح الثالث
@@ -630,7 +630,7 @@
 629;  12th: Gholghotha - The Burial Hymn;                                                     12;  ;   Golgo~a
 630;  12th: The Burial
 631;  Holy Thursday
-632;  The hymns can be found at....
+632;  The hymns can be found at[...].
 633;  The General Funeral
 634;  Order of the General Funeral;                                                           ;    ;   ;                                                                  ترتيب الجناز العام
 635;  Reason for the General Funeral
@@ -930,7 +930,7 @@
 929;  The Acts (Ascension Readings)
 930;  Hymn of the Ascension (Afrek Etfe);                                                     10;  ;   Afrek `Tve;                                                        لحن الصعود - أفريك أتفيه
 931;  Christ Has Ascended;                                                                    8;   ;   `&lt~rictoc `Anelu'uc;                                             المسيح صعد
-932;  Pekhrestos Aftonf ... Afshenaf;                                                         8;   ;   Pi`,rictoc aftwnf;                                                 بيخريستوس أفتونف
+932;  Pekhrestos Aftonf [...] Afshenaf;                                                       8;   ;   Pi`,rictoc aftwnf;                                                 بيخريستوس أفتونف
 933;  Paralex;                                                                                8;   ;   Paralex - Pa[oic Iycouc Pi`,rictoc;                                بارالِكس
 934;  The Hymn of the Trisagion;                                                              4;   ;   `Agioc `o :eoc;                                                    لحن الثلاثة التقديسات
 935;  Psalm & Gospel (Ascension Reading)
@@ -1018,7 +1018,7 @@
 1017; Communion Hymn;                                                                         ;    ;   Iwannyc `psyri `nZa,ariac;                                         مديحة للتوزيع
 1018; Conclusion - Amen Alleluia;                                                             ;    ;   `Amyn allylouia;                                                   الختام - آمين ألليلويا
 1019; General Funeral (الجناز العام)
-1020; The hymns can be found...
+1020; The hymns can be found[...]
 1021; Liturgy (القداس)
 1022; Order of the Liturgy
 1023; The Hymn of Hosanna Sunday - Evlogimenos;                                               25;  ;   Eulogimenoc;                                                       لحن أحد الشعانين
@@ -1207,7 +1207,7 @@
 1206; A-somain;                                                                               12;  ;   Acwmen&gt~ Marenhwc
 1207; Amen Alleluia - Conclusion;                                                             ;    ;   ;                                                                  آمين الليلويا - الختام
 1208; Sagda
-1209; Can be found....
+1209; Can be found[...].
 1210; Vespers & Matins
 1211; Order of Matins
 1212; V & M: Verses of Cymbals;                                                               ;    ;   `A Pi`,rictoc Pennou];                                             أرباع الناقوس
@@ -1216,7 +1216,7 @@
 1215; V & M: Psalm Response;                                                                  ;    ;   ;                                                                  مرد المزمور
 1216; V: Gospel;                                                                              ;    ;   `Nhryi de qen pi`ehoou
 1217; V & M: Gospel Response;                                                                 ;    ;   ;                                                                  مرد الإنجيل
-1218; Pekhrestos Aftonf ... Afshenaf ... Afo-orp;                                             ;    ;   P=,=c aftwnf .. afsenaf .. afouwrp nan;                            بيخريستوس أفتونف .. أفشيناف .. أف أوو اورب
+1218; Pekhrestos Aftonf [...] Afshenaf [...] Afo-orp;                                         ;    ;   P=,=c aftwnf .. afsenaf .. afouwrp nan;                            بيخريستوس أفتونف .. أفشيناف .. أف أوو اورب
 1219; M: Psalm
 1220; M: Gospel;                                                                              ;    ;   Eswp de afsani
 1221; Vespers & Midnight Tasbeha
@@ -1332,9 +1332,9 @@
 1331; The Gospel Response;                                                                    ;    ;   I=y=c P=,=c `ncaf
 1332; The Priest Litanies
 1333; Aspasmos;                                                                               ;    ;   Rasi ouoh ~elyl
-1334; Offer in order, Through the intercessions;                                              ;    ;   `Procverin...Hiten ni`precbia
+1334; Offer in order, Through the intercessions;                                              ;    ;   `Procverin[...]Hiten ni`precbia
 1335; The Anaphora
-1336; Holy, holy, holy...
+1336; Holy, holy, holy[...]
 1337; Psali (Said during the washing of the feet after Psalm 150)
 1338; The Liturgy
 1339; Aspasmos Adam;                                                                          ;    ;   Piwik `nte `pwnq
@@ -1512,7 +1512,7 @@
 1510; Ep-ooro - O King of peace;                                                              8;   ;   `Pouro;                                                            إبؤرو  - يا ملك السلام
 1511; Conclusion
 1512; Intercessors
-1513; Heteni Combined - Angels & Heavenly Hosts;                                              ;    ;   Hiten ni`precbia...;                                               الهيتيني
+1513; Heteni Combined - Angels & Heavenly Hosts;                                              ;    ;   Hiten ni`precbia[...];                                             الهيتيني
 1514; Archangel Gabriel
 1515; Aspasmos Adam;                                                                          ;    ;   `N~ok on akhwl;                                                    اسبسمس أدآم
 1516; Heteni;                                                                                 ;    ;   Hiten ni`precbia;                                                  الهيتيني
@@ -1703,7 +1703,7 @@
 1701; 7th: The Psalm and the Gospel (Psalms 24: 17 & 18, Matthew 6:14-18)
 1702; 7th: The prayer
 1703; 7th: The Praise of the Angels
-1704; 7th: Kerie Leison, Holy, holy, holy...
+1704; 7th: Kerie Leison, Holy, holy, holy[...]
 1705; 7th: The Conclusion
 1706; Deacons شمامسة
 1707; A Prayer Said by the Bishop Silently On Himself Before Every Consecration;              ;    ;   Ou`slyl `esafjof `nje pi`epickopoc qajen jinvws niben;             صلاة يقولها الأسقف على نفسه سراً قبل أي تكريس
@@ -1718,7 +1718,7 @@
 1716; The Beginning Blessing;                                                                 ;    ;   ;                                                                  البركة
 1717; Prayer of Thanksgiving;                                                                 ;    ;   ;                                                                  صلاة الشكر
 1718; The Verses of the Cymbals;                                                              ;    ;   ;                                                                  أرباع الناقوس
-1719; O God who created...;                                                                   ;    ;   ;                                                                  يا الله الذي جبل الإنسان
+1719; O God who created[...];                                                                 ;    ;   ;                                                                  يا الله الذي جبل الإنسان
 1720; O Christ the Word of the Father;                                                        ;    ;   Pi`,rictoc Pilogoc `nte `Viwt;                                     أيها المسيح كلمة الآب
 1721; The Prayer on the Vestments;                                                            ;    ;   ;                                                                  الصلاة على الثياب
 1722; The spiritual garment (Al-hola);                                                        ;    ;   }`ctoly `m`pneumatikon;                                            الحُلة الروحانية
@@ -1742,7 +1742,7 @@
 1740; The Prayer Over the Oil;                                                                ;    ;   ;                                                                  الصلاة على الزيت
 1741; Responses to the Prayer Over the Oil;                                                   ;    ;   Paineh vai `ntefkwrf&gt~ Ak~whc `nta`ave `nouneh;                  مرادات الصلاة على الزيت
 1742; The Prayer Over the Crowns;                                                             ;    ;   ;                                                                  الصلاة على الأكاليل
-1743; Place the Crowns...;                                                                    ;    ;   ;                                                                  ضعوا الأكاليل
+1743; Place the Crowns[...];                                                                  ;    ;   ;                                                                  ضعوا الأكاليل
 1744; The Fulfillment of the Sacrament;                                                       ;    ;   ;                                                                  صلاة حلول السر
 1745; The Prayers Before the Altar;                                                           ;    ;   ;                                                                  الصلوات أمام المذبح
 1746; The Commandment to the Bridegroom;                                                      ;    ;   ;                                                                  الوصية للعريس
