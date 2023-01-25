@@ -1,4 +1,5 @@
 number; title;                                                                                                                               recording
+!!!;    Stundengebete
 ;       Ramšå für den Sonntag der Auferstehung:
 1;      Einführungsgebete und Rezitationen;                                                                                                  3
 2;      Psalm 51.;                                                                                                                           6
@@ -947,70 +948,70 @@ number; title;                                                                  
 946;    Sedrå: Wir flehen Dich an;                                                                                                           6
 947;    Qålå: Wie ein mächtiger Klang;                                                                                                       10
 948;    Båʿūṯå von Mår Balai: Erneuere, der Du voller Gnaden bist;                                                                           7
-949;    END OF LITURGY OF THE HOUR
+!!!;    Ende der Stundengebete
+!!!;    Start der Messliturgie
 950;    Gesänge während der Messe:
-951;    Vater unser
-952;    Gott in seinem Festtag
-953;    Ich will Dich erheben, mein Herr
-954;    Immer und zu jeder Zeit
-955;    In Deinem Licht sehen wir das Licht (2 Fassungen)
-956;    Am Christ-Königsfest
-957;    An Deine Tür, o Herr, klopfe ich
-958;    Herr, gewähre, dass am Tag der Ruhe
-959;    Er, an dem sich die Seraphim und Engel erfreuen
-960;    Halleluja
-961;    Die himmlischen Gäste
-962;    Wir gedenken, o Herr
-963;    O, Gott, habe Gnade mit uns
-964;    Unser Herr war uns gnädig
-965;    Ich war ein verlorenes und wanderndes Lamm
-966;    Lasst uns unserer Väter erinnern
-967;    Paulus, der gesegnete Apostel
-968;    Heilig, heilig, heilig
-969;    Trisagion
-970;    Kyrie-eleison
-971;    Habe Gnade mit uns (2Fassungen)
-972;    Die erwählten Apostel.
+951;    Vater unser;                                                                                                                         5
+952;    Gott in seinem Festtag;                                                                                                              6
+953;    Ich will Dich erheben, mein Herr;                                                                                                    6
+954;    Immer und zu jeder Zeit;                                                                                                             5
+955;    In Deinem Licht sehen wir das Licht (2 Fassungen);                                                                                   4
+956;    Am Christ-Königsfest;                                                                                                                10
+957;    An Deine Tür, o Herr, klopfe ich;                                                                                                    7
+958;    Herr, gewähre, dass am Tag der Ruhe;                                                                                                 12
+959;    Er, an dem sich die Seraphim und Engel erfreuen;                                                                                     15
+960;    Halleluja;                                                                                                                           2
+961;    Die himmlischen Gäste;                                                                                                               13
+962;    Wir gedenken, o Herr;                                                                                                                2
+963;    O, Gott, habe Gnade mit uns;                                                                                                         1
+964;    Unser Herr war uns gnädig;                                                                                                           14
+965;    Ich war ein verlorenes und wanderndes Lamm;                                                                                          11
+966;    Lasst uns unserer Väter erinnern;                                                                                                    4
+967;    Paulus, der gesegnete Apostel;                                                                                                       4
+968;    Heilig, heilig, heilig;                                                                                                              3
+969;    Trisagion;                                                                                                                           2
+970;    Kyrie-eleison;                                                                                                                       1
+971;    Habe Gnade mit uns (2Fassungen);                                                                                                     3
+972;    Die erwählten Apostel.;                                                                                                              3
 973
 974;    Die Hymnen nach dem Evangelium in syrisch-alphabetischer Reihenfolge:
 975;    Erster Zirkel: Konsekration der Kirche:
-976;    Maria ging zu Elisabeth
-977;    Elisabeth, die Mutter des Johannes
-978;    Unser Herr sagte, ich bin das lebendige Brot
-979;    Im Wunder erzähle ich von Deiner Schönheit, o, Maria
-980;    Als Johannes geboren war
-981;    Es gab einen Priester vom Stamme Abijah
-982;    Gepriesen seist du, Kirche, Braut des himmlischen Königs
-983;    Der Engel brachte die gute Nachricht
-984;    Joseph war schlafend
-985;    Während Maria im Gebet verweilte
-986;    Zacharias betrat das Heiligtum
-987;    Wie schön bist du, Tochter der Völker
-988;    gesegneten Kind
-989;    Aus dem brennenden Dornbusch…
+976;    Maria ging zu Elisabeth;                                                                                                             4
+977;    Elisabeth, die Mutter des Johannes;                                                                                                  5
+978;    Unser Herr sagte, ich bin das lebendige Brot;                                                                                        5
+979;    Im Wunder erzähle ich von Deiner Schönheit, o, Maria;                                                                                9
+980;    Als Johannes geboren war;                                                                                                            4
+981;    Es gab einen Priester vom Stamme Abijah;                                                                                             5
+982;    Gepriesen seist du, Kirche, Braut des himmlischen Königs;                                                                            5
+983;    Der Engel brachte die gute Nachricht;                                                                                                9
+984;    Joseph war schlafend;                                                                                                                5
+985;    Während Maria im Gebet verweilte;                                                                                                    6
+986;    Zacharias betrat das Heiligtum;                                                                                                      4
+987;    Wie schön bist du, Tochter der Völker;                                                                                               4
+988;    Gesegnetes Kind;                                                                                                                     3
+989;    Aus dem brennenden Dornbusch;                                                                                                        6
 990
 991
-992;    Hymnen Qatōliqē
-993;    Heute im Tempel verkündete ein Engel
-994
-995;    Heute in den judäischen Hügeln
-996;    Herr, gesegnet ist das Kind
-997;    Gesegnet bist du, o Kirche
-998;    Die Erzengel
-999;    O, Kirche des wahren Glaubens
-1000;   Wächter standen an deinen Toren
-1001;   Gedenke des Tages der Geburt
-1002;   Joseph schlief
-1003;   Maria hörte den Gruß des Engels
+992;    Qatōliqē
+993;    Heute im Tempel verkündete ein Engel;                                                                                                5
+995;    Heute in den judäischen Hügeln;                                                                                                      5
+996;    Herr, gesegnet ist das Kind;                                                                                                         7
+997;    Gesegnet bist du, o Kirche;                                                                                                          7
+998;    Die Erzengel;                                                                                                                        6
+999;    O, Kirche des wahren Glaubens;                                                                                                       4
+1000;   Wächter standen an deinen Toren;                                                                                                     8
+1001;   Gedenke des Tages der Geburt;                                                                                                        8
+1002;   Joseph schlief;                                                                                                                      5
+1003;   Maria hörte den Gruß des Engels;                                                                                                     6
 1004
 1005;   Hutōmē
-1006;   O Kirche
-1007;   Der Vater schrieb einen Brief
-1008;   Gib Dank
-1009;   Obwohl ein Kind
-1010;   Braut Christi
-1011;   Gesegnet bist du, o, Tochter
-1012;   Die Gnade, die heimsuchte
+1006;   O Kirche;                                                                                                                            6
+1007;   Der Vater schrieb einen Brief;                                                                                                       3
+1008;   Gib Dank;                                                                                                                            11
+1009;   Obwohl ein Kind;                                                                                                                     3
+1010;   Braut Christi;                                                                                                                       6
+1011;   Gesegnet bist du, o, Tochter;                                                                                                        2
+1012;   Die Gnade, die heimsuchte;                                                                                                           5
 1013;   Drei liebliche Tauben;                                                                                                               5
 1014;   Die Jungfrau maria gebahr ihn;                                                                                                       4
 1015;   Heute wurde der Erzengel Gabriel gesandt;                                                                                            4
@@ -1022,8 +1023,6 @@ number; title;                                                                  
 1021;   Gabriel sagte, der Friede sei mit dir;                                                                                               3
 1022
 1023;   Zweiter Zirkel
-1024
-1025;   Gesänge nach dem Evangelium
 1026;   Geburt Jesu
 1027;   Gesänge nach dem Evangelium:
 1028;   Frohe Botschaft;                                                                                                                     6
@@ -1054,8 +1053,8 @@ number; title;                                                                  
 1053;   Heute wurde Jesus beschnitten,;                                                                                                      3
 1054;   Christus war in Bethlehem geboren;                                                                                                   3
 1055;   Gesegnete, mögen deine Gebete;                                                                                                       4
-1056
-1057;   Dritter Zirkel
+1056;   Dritter Zirkel
+1057;   Epiphanie
 1058;   Gesänge nach dem Evangelium
 1059;   Wer auch immer durch die Taufe;                                                                                                      4
 1060;   Prediger der Buße;                                                                                                                   5
@@ -1234,5 +1233,4 @@ number; title;                                                                  
 1233;   Das Jungtier des Löwen brüllte im Sheol;                                                                                             7
 1234;   Auf dem Ölberg;                                                                                                                      5
 1235;   Das Jungtier des Löwen stürzte über den Platz der Toten;                                                                             4
-1236
-1237;   Gesegnet, der durch seine Auferstehung;                                                                                              4
+1236;   Gesegnet, der durch seine Auferstehung;                                                                                              4
