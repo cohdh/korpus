@@ -1168,13 +1168,151 @@ number; title;                                                                  
 1162;   Auf dem Ölberg;                                                                                                                        5
 1163;   Das Jungtier des Löwen stürzte über den Platz der Toten;                                                                               4
 1164;   Gesegnet, der durch seine Auferstehung;                                                                                                4
-1165
-1166;   Totengesänge bei der Beerdigung
-1167;   Maenner;                                                                                                                               30
-1168;   Frauen;                                                                                                                                30
-1169;   Kinder;                                                                                                                                30
-1170;   Priester;                                                                                                                              30
-1171;   Taufe;                                                                                                                                 35
-1172;   Hochzeit;                                                                                                                              30
-1173;   Rezitation des Neuen Testaments (in Auswahl);                                                                                          180
-1174;   Rezitation des Alten Testaments (in Auswahl) ohne Psalmen;                                                                             60
+1165;   Als unser großer Retter auferstand;                                                                                                    8
+1166;   Heute jubeln die Ränge;                                                                                                                6
+1167;   Gott stieg glorreich in den Himmel;                                                                                                    6
+1168;   Heute stieg der Erstgeborene der Toten auf;                                                                                            6
+1169;   Der Herr der Glorie ist wahrhaft auferstanden;                                                                                         6
+1170;   Der Weizen des Lebens;                                                                                                                 6
+1171;   Unser Herr war drei Tage lang tot;                                                                                                     8
+1172;   Heute bezeugte Maria ein Wunder;                                                                                                       3
+1173
+1174;   Ḥutōmē
+1175;   Maria, du bist der Weizen des Lebens;                                                                                                  2
+1176;   O, Retter, sei versöhnt mit uns;                                                                                                       2
+1177;   Sohn des Guten;                                                                                                                        2
+1178;   An diesem Tag stieg der Heilige Geist;                                                                                                 2
+1179;   Am großen Tag des Sonntags;                                                                                                            2
+1180;   Am heiligen Sonntag;                                                                                                                   3
+1181;   Sohn, der durch seine Auferstehung;                                                                                                    2
+1182;   Gepriesen sei Er;                                                                                                                      3
+1183;   Gepriesen ist der Allmächtige;                                                                                                         2
+1184;   Gepriesen ist Dein Fest;                                                                                                               3
+1185;   Im Siege ist, der Mächtige;                                                                                                            3
+1186;   Christus war in Glorie auferstanden;                                                                                                   4
+1187;   Das Jungtier des Löwen brüllte;                                                                                                        4
+1188;   Am Ölberg;                                                                                                                             3
+1189;   Das Jungtier des Löwen fiel;                                                                                                           2
+1190
+1191;   Sechster Zirkel
+1192;   Mittlere Sonntage im Jahreskreis
+1193;   Gesänge nach dem Evangelium
+1194;   Himmel und Erde jubeln;                                                                                                                3
+1195;   An diesem Tag führte unser Retter;                                                                                                     3
+1196;   Die Schöpfung jubelt;                                                                                                                  3
+1197;   Unser Herr gewährt;                                                                                                                    3
+1198;   Die Kirche, Christus` Verlobte;                                                                                                        3
+1199;   Gott stieg zu den Toten herab;                                                                                                         4
+1200;   Jeden Tag, ohne zu zögern;                                                                                                             3
+1201;   Gläubige, heilige Kirche;                                                                                                              4
+1202;   Preis dem Sohn Gottes;                                                                                                                 2
+1203;   Erblicke an diesem Tag;                                                                                                                4
+1204
+1205;   Qatōliqē
+1206;   Gott, wir schreien zu Dir;                                                                                                             4
+1207;   Heute zeigte der Verborgene;                                                                                                           8
+1208;   Früh, am Sonntag-Morgen;                                                                                                               6
+1209;   Mitfühlender;                                                                                                                          5
+1210;   Mitfühlender, 2. Fassung,;                                                                                                             5
+1211;   Die Ränge der himmlischen Gäste;                                                                                                       5
+1212;   Jesus, die Freude der Seelen;                                                                                                          6
+1213;   Ich habe keinen wahren Unterstützer;                                                                                                   5
+1214;   Ehre euch, Ehre euch, heilige Apostel;                                                                                                 8
+1215;   Wächter standen an Deinen Türen;                                                                                                       3
+1216;   Mit Klängen von Gesang und Preis;                                                                                                      3
+1217
+1218;   Ḥutōmē
+1219;   Sohn des Lebendigen;                                                                                                                   2
+1220;   Unser Herr, erblicke die Freuden der Kirche;                                                                                           2
+1221;   An diesem Tag, das Licht der Welt;                                                                                                     3
+1222;   Am Sonntag erfreuen sich Kirchen und Klöster;                                                                                          2
+1223;   Gepriesen ist der, der durch seine Auferstehung;                                                                                       3
+1224;   Gepriesen ist der, der durch seine Auferstehung;                                                                                       3
+1225;   Der Allmächtige stieg aus dem Grab;                                                                                                    3
+1226;   Unser Herr stieg zum Mount Tabor hoch;                                                                                                 2
+1227;   Kirche singe Lobpreis für Christus;                                                                                                    3
+1228;   Petrus und Paulus, mögen eure Gebete mit uns sein;                                                                                     2
+1229
+1230;   Siebter Zirkel
+1231;   Spätere Sonntage im Jahreskreis
+1232;   Gesänge nach dem Evangelium
+1233;   Heilige Kirche, richte auf deine Augen;                                                                                                4
+1234;   Am Sonntag rief der Sohn Gottes;                                                                                                       2
+1235;   Am Sonntag wurde die gute Nachricht des Lebens verkündet;                                                                              2
+1236;   Am Sonntag jubeln die Seelen in den Gräbern;                                                                                           3
+1237;   Am Sonntag stieg Gott aus dem Grab;                                                                                                    2
+1238;   Am Tag deiner Geburt, Gesegnete;                                                                                                       2
+1239;   Heilige Kirche, juble;                                                                                                                 2
+1240;   Jungfrau, Gottesgebärerrin;                                                                                                            4
+1241;   Mit seinem Evangelium;                                                                                                                 3
+1242;   Die Aposteln zusammen mit den Engeln;                                                                                                  2
+1243;   Kreuz, komm und erzähle uns über Deine Macht;                                                                                          4
+1244
+1245;   Qatōliqē
+1246;   Mein Gott, vergib mir;                                                                                                                 4
+1247;   Sünder, niemals beende die Fürbitte;                                                                                                   4
+1248;   O Müder, schaue auf Jesus;                                                                                                             6
+1249;   Glorie dir, unser Schöpfer;                                                                                                            6
+1250;   Gläubige, singet Lobpreis;                                                                                                             6
+1251;   Unser Herr hat Gnade mit uns;                                                                                                          4
+1252;   Lass Joachim, den Stumpf mit trockenen Zweigen, frohlocken;                                                                            6
+1253;   Am heiligen Platz sah Jesaja;                                                                                                          6
+1254;   Auf Golgatha wurde das Lamm geschlachtet;                                                                                              6
+1255;   Das heilige Kreuz heiligte unsere Seelen;                                                                                              5
+1256;   Maria, voll von Güte;                                                                                                                  6
+1257;   Orthodoxe Kirche, seit der Zeit deines Herrn, eine Zuflucht;                                                                           6
+1258
+1259;   Ḥutōmē
+1260;   Heiliger, auch wenn dein Körper fern von uns ist;                                                                                      2
+1261;   Sohn Gottes, erinnere uns;                                                                                                             2
+1262;   An deinem Geburtstag, o Mutter des Lichtes;                                                                                            2
+1263;   Sohn, der durch sein Kreuz die Kirche rettete;                                                                                         2
+1264;   Gepriesen ist deine Gnade;                                                                                                             4
+1265;   Wehe dem grausamen Volk;                                                                                                               4
+1266;   Mitfühlender, der herabstieg;                                                                                                          2
+1267;   Heute freut sich die Heilige Kirche;                                                                                                   3
+1268;   Glorie Dir, Christus, für deine Auferstehung;                                                                                          3
+1269;   In den Höhen mit seinem Vater;                                                                                                         4
+1270;   Das Kreuz ist das Symbol des Friedens;                                                                                                 1
+1271;   Glorie Dir, dem Lebendigen;                                                                                                            2
+1272;   Glorie Dir, Christus, der aus dem Grab stieg;                                                                                          3
+1273
+1274;   Achter Zirkel
+1275;   Letzte Sonntage im Jahreskreis
+1276;   Gesänge nach dem Evangelium
+1277;   Gott an Seinem Festtag;                                                                                                                3
+1278;   Am Sonntag sah die Kirche dich;                                                                                                        2
+1279;   Immer und zu jeder Zeit lasst uns erinnern;                                                                                            3
+1280;   Jene, die deinen Körper und dein Blut im Glauben erhielten;                                                                            3
+1281;   Die Kirche verkündete;                                                                                                                 4
+1282;   Lasst uns unserer Väter erinnern;                                                                                                      2
+1283;   Unser Herr, nimm das Opfer an;                                                                                                         3
+1284
+1285;   Qatōliqē
+1286;   Himmlisches Lamm;                                                                                                                      4
+1287;   Mitfühlender, der Klang unserer Bitten;                                                                                                4
+1288;   Erblicke das Lamm Gottes;                                                                                                              6
+1289;   Ich bin hier nur ein Fremder;                                                                                                          4
+1290;   Ehre dir, unserem Schöpfer;                                                                                                            6
+1291;   Lasst uns loben, preisen und verherrlichen;                                                                                            6
+1292;   Die sechsflügeligen Seraphim;                                                                                                          6
+1293;   Heiliger Herr, die Seraphim und Cherubim;                                                                                              6
+1294
+1295;   Ḥutōmē
+1296;   Gott, der wohnt in den Höhen;                                                                                                          5
+1297;   Der Allmächtige stieg aus dem Grabe;                                                                                                   4
+1298;   Himmlischer König;                                                                                                                     3
+1299;   Im Buch der Großen Propheten;                                                                                                          4
+1300;   Herr, habe Gnade mit uns;                                                                                                              5
+1301;   Herr, lass die Toten;                                                                                                                  3
+1302;   Meine Teuren, lasst uns der Wunder gedenken;                                                                                           4
+1303
+1304;   Totengesänge bei der Beerdigung
+1305;   Männer;                                                                                                                                30
+1306;   Frauen;                                                                                                                                30
+1307;   Kinder;                                                                                                                                30
+1308;   Priester;                                                                                                                              30
+1309;   Taufe;                                                                                                                                 35
+1310;   Hochzeit;                                                                                                                              30
+1311;   Rezitation des Neuen Testaments (in Auswahl);                                                                                          180
+1312;   Rezitation des Alten Testaments (in Auswahl) ohne Psalmen;                                                                             60
